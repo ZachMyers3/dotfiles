@@ -1,0 +1,341 @@
+ÿÿo"id")instance-0.068072067368587061613250179656"lines"éŽ2021-02-13T21:10:29.835Z I got device keys for @zachm216:zmthree.xyz: {"LVPBHGHITZ":{"algorithms":["m.megolm.v1.aes-sha2","m.olm.v1.curve25519-aes-sha2"],"device_id":"LVPBHGHITZ","keys":{"curve25519:LVPBHGHITZ":"0YwKYo7unKFtCOdllk++Fm4OryXtZzJjUNqAzQfB7H4","ed25519:LVPBHGHITZ":"giGWAzkD3y+0A0ggXVztFFAcmvs5+nGJc+iWL/4hmH8"},"signatures":{"@zachm216:zmthree.xyz":{"ed25519:LVPBHGHITZ":"ouAz2BmMa64RKf6NvScjb3+4FBFukZddCtyVkecWz0acIJ9VUBzNbTnfoU4WwFZj7B1WsduxBQXUmjOGyMM5Cw","ed25519:6vXYa2UkAPXr23jLiy01UIS8MsQuNfeU2xBe4YWj4HM":"ovih0CDUuz3yjXVU+UGUXE7gRVhTSGheyjGYdL7icJdE5sDvhhDRYRLCBVnJZCUsDPBLHwVnkcFzHilg68DGBw"}},"user_id":"@zachm216:zmthree.xyz","unsigned":{"device_display_name":"Element Android"}},"DVLVBUKGNT":{"algorithms":["m.olm.v1.curve25519-aes-sha2","m.megolm.v1.aes-sha2"],"device_id":"DVLVBUKGNT","keys":{"curve25519:DVLVBUKGNT":"i7fdz2TDnORxgGlZIfR0VC1DotsP29BDbO5I/Q84Ngs","ed25519:DVLVBUKGNT":"1A75jppT5TMsQuadSrjAsF6SD2TYoMeH3O+iVRVj3Bo"},"signatures":{"@zachm216:zmthree.xyz":{"ed25519:DVLVBUKGNT":"dWaMv+v6dZDJQShf+u+svhOPcB3DfC/jsboMPjZWY2qp2DP//n6sI+N0S4nGmBCU9PlWPefEhuPXBvzKMQgrAA","ed25519:6vXYa2UkAPXr23jLiy01UIS8MsQuNfeU2xBe4YWj4HM":"mpcvtPcJPlgSriyKWUvwAdtcxLtBhsNqYn7YXXQd6l3QtGcN3fu9WteMHQs5gW8BsLcQGOnMI6IS/eZcFuQ+Dg"}},"user_id":"@zachm216:zmthree.xyz","unsigned":{"device_display_name":"Element Desktop (Windows)"}},"RHYEPRNUIH":{"algorithms":["m.olm.v1.curve25519-aes-sha2","m.megolm.v1.aes-sha2"],"device_id":"RHYEPRNUIH","keys":{"curve25519:RHYEPRNUIH":"xlEOI6QzqFdh+4MyHOwH3KxGLGHqNyxzq05d5RNVVg4","ed25519:RHYEPRNUIH":"kO/CcTrW1MmnKWzw5UHq6EBpUAmkAVOG9HfnQrTKpg4"},"signatures":{"@zachm216:zmthree.xyz":{"ed25519:RHYEPRNUIH":"lASCkPGFA9LB5vvjf7RS5rj63UH3T2cLp8H9PDjOTb75uhiDcMmJLD3QAJU65E0LPIsvyI7SBGLQF8x2BBo/BQ","ed25519:6vXYa2UkAPXr23jLiy01UIS8MsQuNfeU2xBe4YWj4HM":"hp29BdhS3nakExRBwDaWAklkwsD56LAOrFdLKx9w7mtE8CQUPed0M88xd7wNsLMo8yVULH1VW+mPcaJQ3tXWBA"}},"user_id":"@zachm216:zmthree.xyz","unsigned":{"device_display_name":"Element Desktop (Windows)"}},"MOKJFLRVEK":{"algorithms":["m.olm.v1.curve25519-aes-sha2","m.megolm.v1.aes-sha2"],"device_id":"MOKJFLRVEK","keys":{"curve25519:MOKJFLRVEK":"9FBw4g94ob8DgTLofodjIQhBpeM+mNze1hI3FwSMKUQ","ed25519:MOKJFLRVEK":"zC9gjV49pS/M/xflq63ZLoyulYq3p2rk/aKf+EKk3dw"},"signatures":{"@zachm216:zmthree.xyz":{"ed25519:MOKJFLRVEK":"/lzmanLand9r6VdBZ6VnxGf/aIPCVXeM6K38xUKCoAB96ATSigI98xCrWCAAFveMuPkfA87prQ40d5tkLwVMDQ","ed25519:6vXYa2UkAPXr23jLiy01UIS8MsQuNfeU2xBe4YWj4HM":"IDAhExWooa9dCvjuiXTlxoyaHniLXFGUDzc4B1Yh7Pida81sOura2IM9eMwx+RM8S+oGuMV2L0dBxa61HJZoDw"}},"user_id":"@zachm216:zmthree.xyz","unsigned":{"device_display_name":"Element Desktop (Windows)"}},"WGRUMGVPQW":{"algorithms":["m.megolm.v1.aes-sha2","m.olm.v1.curve25519-aes-sha2"],"device_id":"WGRUMGVPQW","keys":{"curve25519:WGRUMGVPQW":"2r5beSp8KTmsBR+gyJgpK/ro9isHJfP1dGZEqxREP0Y","ed25519:WGRUMGVPQW":"QUeT5HYbn9ZXp3/glQHJ/RnPsi7Of0S5QUdWgBk6Ij4"},"signatures":{"@zachm216:zmthree.xyz":{"ed25519:WGRUMGVPQW":"j0EIF+9k4l6fiS9vlQJ4luJ38JTrNSpmSLkCxMbqvme/VAOGNhMWt/tM5wHGLn8GvtU/3/AaXZJ/rgR37dtFDQ","ed25519:6vXYa2UkAPXr23jLiy01UIS8MsQuNfeU2xBe4YWj4HM":"jJvUe3Phn60Xtx7hq8hq2jrWWxTN0EG9EYH5835Oa2z2pjojuTsoXIo5GAzE8ljo4XrtQVkCYt6e4SCMzCN4AQ"}},"user_id":"@zachm216:zmthree.xyz","unsigned":{"device_display_name":"Element Android"}},"HWTLCSBFHW":{"algorithms":["m.megolm.v1.aes-sha2","m.olm.v1.curve25519-aes-sha2"],"device_id":"HWTLCSBFHW","keys":{"curve25519:HWTLCSBFHW":"2hwjzudSV40ypypqXvDjmB2aVkIOJFGO0cbd2Ku+WSs","ed25519:HWTLCSBFHW":"4Rx2ZVHquiLafw8SwyEm3E86LQxEewAfTRLhKrf1zQI"},"signatures":{"@zachm216:zmthree.xyz":{"ed25519:HWTLCSBFHW":"Aw0PfxrN9+rm6psMBofsqiNhzWkAzJDARtNXWviNx2+OjLVnS7ARqrjrzxJ5hLDtCQAaEgixq/y/G8vKSgwnDg","ed25519:6vXYa2UkAPXr23jLiy01UIS8MsQuNfeU2xBe4YWj4HM":"+SqGcuTDXO4EeyZGsrb/yjhkcrCSC/F3ynSM2oaif2WsiRlkRjw/ntrtNBuYBfY+vFTjKkaFnghkM7QdKXbxAw"}},"user_id":"@zachm216:zmthree.xyz","unsigned":{"device_display_name":"Element Android"}},"NWPHMRVLHT":{"algorithms":["m.megolm.v1.aes-sha2","m.olm.v1.curve25519-aes-sha2"],"device_id":"NWPHMRVLHT","keys":{"curve25519:NWPHMRVLHT":"1J2vH9dbtNFz2RRmFlO1/mVqB/yIipwYDpg3VTN51Sw","ed25519:NWPHMRVLHT":"GC3DOcoPKysjywWIaCvjRgD0PJwkerFNBCYeismaTTY"},"signatures":{"@zachm216:zmthree.xyz":{"ed25519:NWPHMRVLHT":"BvQWTiGCm3UzEApkJJTtkpVUyzAaCj7GNpOqxUIoy2S4ZNjHrgUY4NA3ZussfEsgL9xTsjSgd0TBUet02jBtCQ","ed25519:6vXYa2UkAPXr23jLiy01UIS8MsQuNfeU2xBe4YWj4HM":"eU7E4HbV5yMegXmiSxK7bqB/pWdPPpBm1h+t8av6t2h4o42fajWjWkmC/J3OVMSoDLHXCXha1mxfu8fXcvO1BQ"}},"user_id":"@zachm216:zmthree.xyz","unsigned":{"device_display_name":"Element Android"}},"FFLRWUNEGG":{"algorithms":["m.olm.v1.curve25519-aes-sha2","m.megolm.v1.aes-sha2"],"device_id":"FFLRWUNEGG","keys":{"curve25519:FFLRWUNEGG":"WmI0OWv2Xr8Q9YP1h0/y8KfQF3daAoN5Fj8DtZkdfRA","ed25519:FFLRWUNEGG":"MYyWQp3Gv5Ijkd+3WTqdQf9BDcczylR0Wk+fXEmpRPY"},"signatures":{"@zachm216:zmthree.xyz":{"ed25519:FFLRWUNEGG":"pJwLafD0StPinS7pEjbMYv9Va0IJzHKk5KfdhiVSVTr+0vQTWIz6P7icvyzeEm+e2ZlKotR1sey+Tt4LO/H5Aw"}},"user_id":"@zachm216:zmthree.xyz","unsigned":{"device_display_name":"Element Desktop (Linux)"}}}
+2021-02-13T21:10:29.835Z I got cross-signing keys for @zachm216:zmthree.xyz: {"master":{"user_id":"@zachm216:zmthree.xyz","usage":["master"],"keys":{"ed25519:GM8xOAkI3C77ZXz1VnT4dZ1tGj9gBYbk1kaBBcUyRx0":"GM8xOAkI3C77ZXz1VnT4dZ1tGj9gBYbk1kaBBcUyRx0"},"signatures":{"@zachm216:zmthree.xyz":{"ed25519:LVPBHGHITZ":"4UGYU7UTcfgchLPdXN5IiXIn1rzqC+fpEpQrdElVJd+fzaKvOzIFdNxJpJb9JUFweB0J9wliZKJBlG20ETStBA"}}},"self_signing":{"user_id":"@zachm216:zmthree.xyz","usage":["self_signing"],"keys":{"ed25519:6vXYa2UkAPXr23jLiy01UIS8MsQuNfeU2xBe4YWj4HM":"6vXYa2UkAPXr23jLiy01UIS8MsQuNfeU2xBe4YWj4HM"},"signatures":{"@zachm216:zmthree.xyz":{"ed25519:GM8xOAkI3C77ZXz1VnT4dZ1tGj9gBYbk1kaBBcUyRx0":"Yvyx1Nbkxol3RwxhBkOFFcOOSNAPPmQGelIBIjOOyOVsXaRoiOXAwqX4oooQs3HNMHJDWyWwfA2olgZuoZAcDQ"}}},"user_signing":{"user_id":"@zachm216:zmthree.xyz","usage":["user_signing"],"keys":{"ed25519:Xw9u7uGEsPX6O/43XLCIV5fCJ3cfKb1obXkykEXGxTM":"Xw9u7uGEsPX6O/43XLCIV5fCJ3cfKb1obXkykEXGxTM"},"signatures":{"@zachm216:zmthree.xyz":{"ed25519:GM8xOAkI3C77ZXz1VnT4dZ1tGj9gBYbk1kaBBcUyRx0":"tEKou8ezFRYDQZW+QTQWZHkHWSBiibAGOmjzj72mvX+o6YsJlXmeE741gmA2VCkSc1tFsAyGFF85d6HsXiKYCQ"}}}}
+2021-02-13T21:10:29.842Z I Completed key download for @zachm216:zmthree.xyz
+2021-02-13T21:10:29.842Z I Device list for @zachm216:zmthree.xyz now up to date
+2021-02-13T21:10:29.847Z I downloadKeys: already have all necessary keys
+2021-02-13T21:10:29.848Z I downloadKeys: already have all necessary keys
+2021-02-13T21:10:29.849Z I downloadKeys: already have all necessary keys
+2021-02-13T21:10:30.144Z I Saving device tracking data s2285201_5942599_5138_1570507_37451_47_287_36980_3
+2021-02-13T21:10:31.506Z I received to_device m.room_key_request from: @zachm216:zmthree.xyz id: undefined
+2021-02-13T21:10:31.507Z I received to_device m.room_key_request from: @zachm216:zmthree.xyz id: undefined
+2021-02-13T21:10:31.507Z I received to_device m.room_key_request from: @zachm216:zmthree.xyz id: undefined
+2021-02-13T21:10:31.507Z I received to_device m.room_key_request from: @zachm216:zmthree.xyz id: undefined
+2021-02-13T21:10:31.507Z I received to_device m.room_key_request from: @zachm216:zmthree.xyz id: undefined
+2021-02-13T21:10:31.507Z I received to_device m.room_key_request from: @zachm216:zmthree.xyz id: undefined
+2021-02-13T21:10:31.507Z I received to_device m.room_key_request from: @zachm216:zmthree.xyz id: undefined
+2021-02-13T21:10:31.507Z I received to_device m.room_key_request from: @zachm216:zmthree.xyz id: undefined
+2021-02-13T21:10:31.507Z I received to_device m.room_key_request from: @zachm216:zmthree.xyz id: undefined
+2021-02-13T21:10:31.511Z I m.room_key_request from @zachm216:zmthree.xyz:FFLRWUNEGG for !RAxkKAquXJVbQRKcoY:zmthree.xyz / 4uqQs97hKC/A3vZiakwXUGdHWMEyepeGPZqLaylb+fk (id m1613250623511.0)
+2021-02-13T21:10:31.512Z I Ignoring room key request from ourselves
+2021-02-13T21:10:31.512Z I m.room_key_request from @zachm216:zmthree.xyz:FFLRWUNEGG for !RAxkKAquXJVbQRKcoY:zmthree.xyz / AZWuOg1JoZw2Jllyl9sXtgfp9Bo7z9U1YgfDHtzYxaE (id m1613250623520.1)
+2021-02-13T21:10:31.512Z I Ignoring room key request from ourselves
+2021-02-13T21:10:31.512Z I m.room_key_request from @zachm216:zmthree.xyz:FFLRWUNEGG for !RAxkKAquXJVbQRKcoY:zmthree.xyz / rO6ANZ4X4MKxI9jmI87kqljqkANeEHUPJ09ycAKeKc4 (id m1613250623591.2)
+2021-02-13T21:10:31.512Z I Ignoring room key request from ourselves
+2021-02-13T21:10:31.512Z I m.room_key_request from @zachm216:zmthree.xyz:FFLRWUNEGG for !RAxkKAquXJVbQRKcoY:zmthree.xyz / hsB6acG9KwtVq7959S+xhP86mKm4J9r2vaiy57EHUBo (id m1613250623592.3)
+2021-02-13T21:10:31.512Z I Ignoring room key request from ourselves
+2021-02-13T21:10:31.512Z I m.room_key_request from @zachm216:zmthree.xyz:FFLRWUNEGG for !RAxkKAquXJVbQRKcoY:zmthree.xyz / e1r9GPWwOPY2VFHCx/5U8ds+X26JFUi7U173fFILFZM (id m1613250623593.4)
+2021-02-13T21:10:31.512Z I Ignoring room key request from ourselves
+2021-02-13T21:10:31.512Z I m.room_key_request from @zachm216:zmthree.xyz:FFLRWUNEGG for !RAxkKAquXJVbQRKcoY:zmthree.xyz / Flou781o6eclS4R6A5oz1pL8DcxiXxcX93HglAaq9/k (id m1613250623606.6)
+2021-02-13T21:10:31.512Z I Ignoring room key request from ourselves
+2021-02-13T21:10:31.512Z I m.room_key_request from @zachm216:zmthree.xyz:FFLRWUNEGG for !RAxkKAquXJVbQRKcoY:zmthree.xyz / WAGJLJrqr/qAjRVIG4DLBXfD6XuedD0Urf1Z3blSCIY (id m1613250623709.7)
+2021-02-13T21:10:31.512Z I Ignoring room key request from ourselves
+2021-02-13T21:10:31.512Z I m.room_key_request from @zachm216:zmthree.xyz:FFLRWUNEGG for !RAxkKAquXJVbQRKcoY:zmthree.xyz / 4cgfrTXGEPZerUbOq0a1k6X56O4V3Jzun8erQzEOsW4 (id m1613250623711.9)
+2021-02-13T21:10:31.512Z I Ignoring room key request from ourselves
+2021-02-13T21:10:31.512Z I m.room_key_request from @zachm216:zmthree.xyz:FFLRWUNEGG for !RAxkKAquXJVbQRKcoY:zmthree.xyz / g7AinXE9MCpv41uiVs5BCuqt+iWNX6EPw+QTDjpT1mE (id m1613250623715.12)
+2021-02-13T21:10:31.512Z I Ignoring room key request from ourselves
+2021-02-13T21:10:34.558Z W Error decrypting event (id=$AB5zwCBm6Vxjt5NBm9hvIrWcNJ_PFtgqVRhjv9DKWok): DecryptionError[msg: The sender's device has not sent us the keys for this message., session: 1J2vH9dbtNFz2RRmFlO1/mVqB/yIipwYDpg3VTN51Sw|AZWuOg1JoZw2Jllyl9sXtgfp9Bo7z9U1YgfDHtzYxaE]
+2021-02-13T21:10:34.560Z W Error decrypting event (id=$Vc55zUQ5O5GbLA9Y3plaibK3vUOSfqc2ul_Ibyb_0xM): DecryptionError[msg: The sender's device has not sent us the keys for this message., session: XKaim/4VX1P6VthsY/AHH1VSGg7x8W6GstbSKOiMPDo|4uqQs97hKC/A3vZiakwXUGdHWMEyepeGPZqLaylb+fk]
+2021-02-13T21:10:34.564Z W Error decrypting event (id=$PXc7z6Pn8eJwHcBOjnAHZc499xXXgC-lk9XEiB8PEvo): DecryptionError[msg: The sender's device has not sent us the keys for this message., session: 1J2vH9dbtNFz2RRmFlO1/mVqB/yIipwYDpg3VTN51Sw|AZWuOg1JoZw2Jllyl9sXtgfp9Bo7z9U1YgfDHtzYxaE]
+2021-02-13T21:10:34.566Z W Error decrypting event (id=$aDXqB_CfEFUT7JUfodPE3aQ5ZsMq4tAMyJUeqX6aERU): DecryptionError[msg: The sender's device has not sent us the keys for this message., session: XKaim/4VX1P6VthsY/AHH1VSGg7x8W6GstbSKOiMPDo|4uqQs97hKC/A3vZiakwXUGdHWMEyepeGPZqLaylb+fk]
+2021-02-13T21:10:34.568Z W Error decrypting event (id=$nypHIGiAQcmdup0CZ96wQkkLu-n6BlozVMBk5cXKpfA): DecryptionError[msg: The sender's device has not sent us the keys for this message., session: XKaim/4VX1P6VthsY/AHH1VSGg7x8W6GstbSKOiMPDo|4uqQs97hKC/A3vZiakwXUGdHWMEyepeGPZqLaylb+fk]
+2021-02-13T21:10:34.570Z I enqueueing key request for !RAxkKAquXJVbQRKcoY:zmthree.xyz / jF9/m/K7FOxYkMj1jA0ZVyH/uLrtb8p6OKOIi53/RqY
+2021-02-13T21:10:34.571Z W Error decrypting event (id=$RWhW4KYyvLO1HePLlI3jEtt_9_nqBNRXYIYNSRCEPqY): DecryptionError[msg: The sender's device has not sent us the keys for this message., session: XKaim/4VX1P6VthsY/AHH1VSGg7x8W6GstbSKOiMPDo|jF9/m/K7FOxYkMj1jA0ZVyH/uLrtb8p6OKOIi53/RqY]
+2021-02-13T21:10:34.573Z W Error decrypting event (id=$ktJ9HwoU6Ko5Ct55RHh5LMheT0Y4asgq1KPN2JWrBfM): DecryptionError[msg: The sender's device has not sent us the keys for this message., session: XKaim/4VX1P6VthsY/AHH1VSGg7x8W6GstbSKOiMPDo|xRURcl4VeZM5FUZRZBdm1oT9BbhehUz5EQV2Tjijjfo]
+2021-02-13T21:10:34.581Z W Error decrypting event (id=$8jR4jOVL1jA2KyySjb_WPC0QB-2yVn77sZQeqHxCLgg): DecryptionError[msg: The sender's device has not sent us the keys for this message., session: XKaim/4VX1P6VthsY/AHH1VSGg7x8W6GstbSKOiMPDo|+ysQU/cebSs9fDySSk3cwWeHOshDvZnnradp4rvgafU]
+2021-02-13T21:10:34.584Z W Error decrypting event (id=$SSJH_-PSt61Y_P5HrSQuaWS_YlfuLqoWLil4E5s_Gtk): DecryptionError[msg: The sender's device has not sent us the keys for this message., session: i7fdz2TDnORxgGlZIfR0VC1DotsP29BDbO5I/Q84Ngs|mPGjhhEUsViDQgpGNZUUcVmyak6v309QjThmNqkg+I0]
+2021-02-13T21:10:34.585Z I enqueueing key request for !RAxkKAquXJVbQRKcoY:zmthree.xyz / xRURcl4VeZM5FUZRZBdm1oT9BbhehUz5EQV2Tjijjfo
+2021-02-13T21:10:34.587Z W Error decrypting event (id=$jT5cGKKlDGbFRvxKIXQdpFq_3ESmtTioi0CDWmddZmw): DecryptionError[msg: The sender's device has not sent us the keys for this message., session: XKaim/4VX1P6VthsY/AHH1VSGg7x8W6GstbSKOiMPDo|+ysQU/cebSs9fDySSk3cwWeHOshDvZnnradp4rvgafU]
+2021-02-13T21:10:34.591Z I enqueueing key request for !RAxkKAquXJVbQRKcoY:zmthree.xyz / +ysQU/cebSs9fDySSk3cwWeHOshDvZnnradp4rvgafU
+2021-02-13T21:10:34.592Z W Error decrypting event (id=$Va231IVdFnfkTp17eCo77LUoOZeCU3lguKoF6maUjpI): DecryptionError[msg: The sender's device has not sent us the keys for this message., session: XKaim/4VX1P6VthsY/AHH1VSGg7x8W6GstbSKOiMPDo|9ZUX5FlZsneZnFHMyfs45ZM7jeYy6N7osRWrebwjHcA]
+2021-02-13T21:10:34.595Z W Error decrypting event (id=$u-Ui3Uw_o_l7ne5eLdE28ay0bDGjaMNkxztFA-VlX9c): DecryptionError[msg: The sender's device has not sent us the keys for this message., session: XKaim/4VX1P6VthsY/AHH1VSGg7x8W6GstbSKOiMPDo|Aj+JwaRzUeKOxqEDkYKotyKqQJLuldMlF+tialogRkM]
+2021-02-13T21:10:34.602Z I enqueueing key request for !RAxkKAquXJVbQRKcoY:zmthree.xyz / mPGjhhEUsViDQgpGNZUUcVmyak6v309QjThmNqkg+I0
+2021-02-13T21:10:34.602Z W Error decrypting event (id=$oKgN-poCW_PFRgdb-gPvcc79O0BqQ8-sgQKNuhW80jI): DecryptionError[msg: The sender's device has not sent us the keys for this message., session: XKaim/4VX1P6VthsY/AHH1VSGg7x8W6GstbSKOiMPDo|DfvjqSKH5kDLrJdk03Kpn1swL7Gd/jaleh5MsJijSpk]
+2021-02-13T21:10:34.605Z W Error decrypting event (id=$o5Q7hgPzNpGk_1xdlqmwqk-segtroAcCUQBWns259-o): DecryptionError[msg: The sender's device has not sent us the keys for this message., session: XKaim/4VX1P6VthsY/AHH1VSGg7x8W6GstbSKOiMPDo|DfvjqSKH5kDLrJdk03Kpn1swL7Gd/jaleh5MsJijSpk]
+2021-02-13T21:10:34.609Z W Error decrypting event (id=$0jq5sAGVExfy1p6RJwfbGpebxJgHpMAXRhXsBHob3ZE): DecryptionError[msg: The sender's device has not sent us the keys for this message., session: XKaim/4VX1P6VthsY/AHH1VSGg7x8W6GstbSKOiMPDo|rEhoUgFFPNe4gW9k5zEpTMpYe8+iASmGTEYw3/hvPRk]
+2021-02-13T21:10:34.610Z I already have key request outstanding for !RAxkKAquXJVbQRKcoY:zmthree.xyz / +ysQU/cebSs9fDySSk3cwWeHOshDvZnnradp4rvgafU: not sending another
+2021-02-13T21:10:34.613Z W Error decrypting event (id=$yrASXt1ajEOE0YbifDfd98JwRACA2TrcqpRA3qTra44): DecryptionError[msg: The sender's device has not sent us the keys for this message., session: XKaim/4VX1P6VthsY/AHH1VSGg7x8W6GstbSKOiMPDo|NsKQM4WXVGcj/SVwess5cK27xH44qHceItEnmm7M0DQ]
+2021-02-13T21:10:34.616Z W Error decrypting event (id=$ScFX_1XXLaJsHmh261PznZRoLSMfyTZzkdOUTh_29-s): DecryptionError[msg: The sender's device has not sent us the keys for this message., session: XKaim/4VX1P6VthsY/AHH1VSGg7x8W6GstbSKOiMPDo|ZnRdXCbnbx4sLTbaekO4aa4zt2MPRzZVfsJE/iv9L0I]
+2021-02-13T21:10:34.618Z W Error decrypting event (id=$JAPt4mF-a0UY-8LKFAPlrRorp3125XSyxDGNMzys5xw): DecryptionError[msg: The sender's device has not sent us the keys for this message., session: XKaim/4VX1P6VthsY/AHH1VSGg7x8W6GstbSKOiMPDo|ZnRdXCbnbx4sLTbaekO4aa4zt2MPRzZVfsJE/iv9L0I]
+2021-02-13T21:10:34.620Z I enqueueing key request for !RAxkKAquXJVbQRKcoY:zmthree.xyz / 9ZUX5FlZsneZnFHMyfs45ZM7jeYy6N7osRWrebwjHcA
+2021-02-13T21:10:34.621Z W Error decrypting event (id=$g2nrl_tKZKCK2K_RixSF356G1x63kiCkoDmMaTz8vxo): DecryptionError[msg: The sender's device has not sent us the keys for this message., session: XKaim/4VX1P6VthsY/AHH1VSGg7x8W6GstbSKOiMPDo|HYTWRuqwi0qNCqnWPX5fAIeJyXfMC09YeqnAINSG1d8]
+2021-02-13T21:10:34.626Z W Error decrypting event (id=$vODCYD983ah8NGzc1yeFw-7vEwxDioyjdwGmW6dcqWM): DecryptionError[msg: The sender's device has not sent us the keys for this message., session: 0YwKYo7unKFtCOdllk++Fm4OryXtZzJjUNqAzQfB7H4|S7Vt1XFkURWWL3/Egu1WhqxoJcGwWDOG/4g1HEcX0XE]
+2021-02-13T21:10:34.629Z W Error decrypting event (id=$UiFnrzpKjieiX2UOZE-JfX3K_fIgUtsaAsJMZFL_vYA): DecryptionError[msg: The sender's device has not sent us the keys for this message., session: XKaim/4VX1P6VthsY/AHH1VSGg7x8W6GstbSKOiMPDo|HYTWRuqwi0qNCqnWPX5fAIeJyXfMC09YeqnAINSG1d8]
+2021-02-13T21:10:34.630Z I enqueueing key request for !RAxkKAquXJVbQRKcoY:zmthree.xyz / Aj+JwaRzUeKOxqEDkYKotyKqQJLuldMlF+tialogRkM
+2021-02-13T21:10:34.634Z W Error decrypting event (id=$LWE0qLctYJ4Nml6OleHwP5L4xIgr6CrkGgFAaUyOATk): DecryptionError[msg: The sender's device has not sent us the keys for this message., session: 0YwKYo7unKFtCOdllk++Fm4OryXtZzJjUNqAzQfB7H4|S7Vt1XFkURWWL3/Egu1WhqxoJcGwWDOG/4g1HEcX0XE]
+2021-02-13T21:10:34.638Z I enqueueing key request for !RAxkKAquXJVbQRKcoY:zmthree.xyz / DfvjqSKH5kDLrJdk03Kpn1swL7Gd/jaleh5MsJijSpk
+2021-02-13T21:10:34.639Z W Error decrypting event (id=$eYEqLNZdthi2swfaTNQ-WddNzVtEQRQoHTFyxCHWG6Q): DecryptionError[msg: The sender's device has not sent us the keys for this message., session: XKaim/4VX1P6VthsY/AHH1VSGg7x8W6GstbSKOiMPDo|HYTWRuqwi0qNCqnWPX5fAIeJyXfMC09YeqnAINSG1d8]
+2021-02-13T21:10:34.641Z W Error decrypting event (id=$7Q8T5McZ8iLKeTxc7izQvgBPAP7iCb8juoTjltEEWY8): DecryptionError[msg: The sender's device has not sent us the keys for this message., session: XKaim/4VX1P6VthsY/AHH1VSGg7x8W6GstbSKOiMPDo|HYTWRuqwi0qNCqnWPX5fAIeJyXfMC09YeqnAINSG1d8]
+2021-02-13T21:10:34.644Z I already have key request outstanding for !RAxkKAquXJVbQRKcoY:zmthree.xyz / DfvjqSKH5kDLrJdk03Kpn1swL7Gd/jaleh5MsJijSpk: not sending another
+2021-02-13T21:10:34.645Z W Error decrypting event (id=$fPomaIjI1YgV9hYWZRPGPt8LFi5UNPdmZi5kOThKspw): DecryptionError[msg: The sender's device has not sent us the keys for this message., session: 0YwKYo7unKFtCOdllk++Fm4OryXtZzJjUNqAzQfB7H4|zOrX1MO+RUqpq6x+UwEvh0TZAL76BctaSzbchQQ91lE]
+2021-02-13T21:10:34.646Z I enqueueing key request for !RAxkKAquXJVbQRKcoY:zmthree.xyz / rEhoUgFFPNe4gW9k5zEpTMpYe8+iASmGTEYw3/hvPRk
+2021-02-13T21:10:34.647Z W Error decrypting event (id=$mayShCh82y0lcVcwe14-gDxJdMIiYKTNK516g7ha0YM): DecryptionError[msg: The sender's device has not sent us the keys for this message., session: XKaim/4VX1P6VthsY/AHH1VSGg7x8W6GstbSKOiMPDo|HYTWRuqwi0qNCqnWPX5fAIeJyXfMC09YeqnAINSG1d8]
+2021-02-13T21:10:34.655Z I enqueueing key request for !RAxkKAquXJVbQRKcoY:zmthree.xyz / NsKQM4WXVGcj/SVwess5cK27xH44qHceItEnmm7M0DQ
+2021-02-13T21:10:34.656Z W Error decrypting event (id=$GV19fCNvQg1gATFcJCb_wdVzdOdIE33AYG-TrrFkeQc): DecryptionError[msg: The sender's device has not sent us the keys for this message., session: 0YwKYo7unKFtCOdllk++Fm4OryXtZzJjUNqAzQfB7H4|zOrX1MO+RUqpq6x+UwEvh0TZAL76BctaSzbchQQ91lE]
+2021-02-13T21:10:34.659Z W Error decrypting event (id=$IFrtrYsDQbfOUnz6GG4mJ7rVK0Moh5-mniZ4DeUkXCU): DecryptionError[msg: The sender's device has not sent us the keys for this message., session: XKaim/4VX1P6VthsY/AHH1VSGg7x8W6GstbSKOiMPDo|HYTWRuqwi0qNCqnWPX5fAIeJyXfMC09YeqnAINSG1d8]
+2021-02-13T21:10:34.664Z I enqueueing key request for !RAxkKAquXJVbQRKcoY:zmthree.xyz / ZnRdXCbnbx4sLTbaekO4aa4zt2MPRzZVfsJE/iv9L0I
+2021-02-13T21:10:34.665Z W Error decrypting event (id=$OwErpJ5h6cDM9THjnIbsXco-SWrFHMQBLs5K7Nz_MH4): DecryptionError[msg: The sender's device has not sent us the keys for this message., session: 0YwKYo7unKFtCOdllk++Fm4OryXtZzJjUNqAzQfB7H4|zOrX1MO+RUqpq6x+UwEvh0TZAL76BctaSzbchQQ91lE]
+2021-02-13T21:10:34.667Z W Error decrypting event (id=$8Pih8W9MML434KEsHX9DA9LJjhtCHUuS-eCJGG-Aems): DecryptionError[msg: The sender's device has not sent us the keys for this message., session: XKaim/4VX1P6VthsY/AHH1VSGg7x8W6GstbSKOiMPDo|HYTWRuqwi0qNCqnWPX5fAIeJyXfMC09YeqnAINSG1d8]
+2021-02-13T21:10:34.672Z I already have key request outstanding for !RAxkKAquXJVbQRKcoY:zmthree.xyz / ZnRdXCbnbx4sLTbaekO4aa4zt2MPRzZVfsJE/iv9L0I: not sending another
+2021-02-13T21:10:34.673Z W Error decrypting event (id=$uWF2oJ2Xln3bjS6FsDQHauUiQ3bkmq4M9GZUkXqCjYc): DecryptionError[msg: The sender's device has not sent us the keys for this message., session: XKaim/4VX1P6VthsY/AHH1VSGg7x8W6GstbSKOiMPDo|HYTWRuqwi0qNCqnWPX5fAIeJyXfMC09YeqnAINSG1d8]
+2021-02-13T21:10:34.677Z I enqueueing key request for !RAxkKAquXJVbQRKcoY:zmthree.xyz / HYTWRuqwi0qNCqnWPX5fAIeJyXfMC09YeqnAINSG1d8
+2021-02-13T21:10:34.681Z W Error decrypting event (id=$XjFCJ0wee_mc8cjhM0FydWTKpumg25GCHOQGTrJ2JUQ): DecryptionError[msg: The sender's device has not sent us the keys for this message., session: xlEOI6QzqFdh+4MyHOwH3KxGLGHqNyxzq05d5RNVVg4|fIVnTD/urQhAB25rT7Nm35+ABm9siYVme1oW43sXdJI]
+2021-02-13T21:10:34.687Z W Error decrypting event (id=$DpVmkDGg4iIBWo7IoTcC7t42LpCH2kfzhvpYWtxPjRE): DecryptionError[msg: The sender's device has not sent us the keys for this message., session: XKaim/4VX1P6VthsY/AHH1VSGg7x8W6GstbSKOiMPDo|HYTWRuqwi0qNCqnWPX5fAIeJyXfMC09YeqnAINSG1d8]
+2021-02-13T21:10:34.691Z W Error decrypting event (id=$try4Xbx1ko7yyZpDAiPAxd9GJpyi1moWFogU2LLOfws): DecryptionError[msg: The sender's device has not sent us the keys for this message., session: xlEOI6QzqFdh+4MyHOwH3KxGLGHqNyxzq05d5RNVVg4|fIVnTD/urQhAB25rT7Nm35+ABm9siYVme1oW43sXdJI]
+2021-02-13T21:10:34.692Z I enqueueing key request for !RAxkKAquXJVbQRKcoY:zmthree.xyz / S7Vt1XFkURWWL3/Egu1WhqxoJcGwWDOG/4g1HEcX0XE
+2021-02-13T21:10:34.695Z W Error decrypting event (id=$_2KwzuLTav8hNGG4ZEFwrr1JBVqMIIz3cB8a3oXGlVY): DecryptionError[msg: The sender's device has not sent us the keys for this message., session: XKaim/4VX1P6VthsY/AHH1VSGg7x8W6GstbSKOiMPDo|mA5qzDwIr4a2gR0MMyci5Yt4HQwvkxFLfdN035NyBRc]
+2021-02-13T21:10:34.697Z W Error decrypting event (id=$2biSOhycmb15Z3PW7CiUPqq6E-S8rLf83LX0VmMvQ7M): DecryptionError[msg: The sender's device has not sent us the keys for this message., session: XKaim/4VX1P6VthsY/AHH1VSGg7x8W6GstbSKOiMPDo|3TvkqSDX00V0oYeNBDqqfmMVBTMUTwBcxYbHEf4TpxI]
+2021-02-13T21:10:34.708Z W Error decrypting event (id=$XehS-qpraAOxaluHoYCb4czXQnFep-ZOy3wY-ojIJ9s): DecryptionError[msg: The sender's device has not sent us the keys for this message., session: XKaim/4VX1P6VthsY/AHH1VSGg7x8W6GstbSKOiMPDo|E66ISqV+clWb60Q/ve+e7Vym2shpAYc13j8MdP77cxs]
+2021-02-13T21:10:34.712Z W Error decrypting event (id=$NMYawCkVwvqjuY8vbn61rJjhrVQKL7xrgQmNeSOszys): DecryptionError[msg: The sender's device has not sent us the keys for this message., session: xlEOI6QzqFdh+4MyHOwH3KxGLGHqNyxzq05d5RNVVg4|PnWrJkQ/Fr/3q6hrTT5xV33Ot00VjYVJz4uGCPPGH3U]
+2021-02-13T21:10:34.713Z I already have key request outstanding for !RAxkKAquXJVbQRKcoY:zmthree.xyz / S7Vt1XFkURWWL3/Egu1WhqxoJcGwWDOG/4g1HEcX0XE: not sending another
+2021-02-13T21:10:34.714Z I enqueueing key request for !RAxkKAquXJVbQRKcoY:zmthree.xyz / zOrX1MO+RUqpq6x+UwEvh0TZAL76BctaSzbchQQ91lE
+2021-02-13T21:10:34.715Z W Error decrypting event (id=$dxa6xhLc8QrC26i-LrlmjS7fKemZelKBD947hPbe_GM): DecryptionError[msg: The sender's device has not sent us the keys for this message., session: XKaim/4VX1P6VthsY/AHH1VSGg7x8W6GstbSKOiMPDo|E66ISqV+clWb60Q/ve+e7Vym2shpAYc13j8MdP77cxs]
+2021-02-13T21:10:34.717Z W Error decrypting event (id=$g-gjurEBdm-jWG4NkCr7vczpn0FK_WzY4iEd8hu4eIo): DecryptionError[msg: The sender's device has not sent us the keys for this message., session: xlEOI6QzqFdh+4MyHOwH3KxGLGHqNyxzq05d5RNVVg4|PnWrJkQ/Fr/3q6hrTT5xV33Ot00VjYVJz4uGCPPGH3U]
+2021-02-13T21:10:34.721Z W Error decrypting event (id=$dkmZpujlcgtqtAATuJet0n_VhKtUQVE5EVhBB8mf3tE): DecryptionError[msg: The sender's device has not sent us the keys for this message., session: XKaim/4VX1P6VthsY/AHH1VSGg7x8W6GstbSKOiMPDo|E66ISqV+clWb60Q/ve+e7Vym2shpAYc13j8MdP77cxs]
+2021-02-13T21:10:34.742Z W Error decrypting event (id=$qET_AMGfMc8il4HbxafXKVFNzyxh0O0GXWGR7pfhJwA): DecryptionError[msg: The sender's device has not sent us the keys for this message., session: xlEOI6QzqFdh+4MyHOwH3KxGLGHqNyxzq05d5RNVVg4|PnWrJkQ/Fr/3q6hrTT5xV33Ot00VjYVJz4uGCPPGH3U]
+2021-02-13T21:10:34.744Z I already have key request outstanding for !RAxkKAquXJVbQRKcoY:zmthree.xyz / zOrX1MO+RUqpq6x+UwEvh0TZAL76BctaSzbchQQ91lE: not sending another
+2021-02-13T21:10:34.747Z W Error decrypting event (id=$lX0Rt0Ro_BQS2HRulgDHYJtUz-5arC1ZXzQooIfED0w): DecryptionError[msg: The sender's device has not sent us the keys for this message., session: XKaim/4VX1P6VthsY/AHH1VSGg7x8W6GstbSKOiMPDo|E66ISqV+clWb60Q/ve+e7Vym2shpAYc13j8MdP77cxs]
+2021-02-13T21:10:34.750Z I already have key request outstanding for !RAxkKAquXJVbQRKcoY:zmthree.xyz / zOrX1MO+RUqpq6x+UwEvh0TZAL76BctaSzbchQQ91lE: not sending another
+2021-02-13T21:10:34.753Z W Error decrypting event (id=$NGh4QiJ7G1wd69dluSICYfE4vp6LYXethnozESih_Sk): DecryptionError[msg: The sender's device has not sent us the keys for this message., session: xlEOI6QzqFdh+4MyHOwH3KxGLGHqNyxzq05d5RNVVg4|PnWrJkQ/Fr/3q6hrTT5xV33Ot00VjYVJz4uGCPPGH3U]
+2021-02-13T21:10:34.756Z I enqueueing key request for !RAxkKAquXJVbQRKcoY:zmthree.xyz / fIVnTD/urQhAB25rT7Nm35+ABm9siYVme1oW43sXdJI
+2021-02-13T21:10:34.758Z W Error decrypting event (id=$GTNWE8XvhRVh4ZXbA1vrD1e_BoWyofDf89UjLmi2ZcY): DecryptionError[msg: The sender's device has not sent us the keys for this message., session: XKaim/4VX1P6VthsY/AHH1VSGg7x8W6GstbSKOiMPDo|E66ISqV+clWb60Q/ve+e7Vym2shpAYc13j8MdP77cxs]
+2021-02-13T21:10:34.768Z I already have key request outstanding for !RAxkKAquXJVbQRKcoY:zmthree.xyz / fIVnTD/urQhAB25rT7Nm35+ABm9siYVme1oW43sXdJI: not sending another
+2021-02-13T21:10:34.768Z W Error decrypting event (id=$TGY-b08b1h1oSEOPo5xz2mg472hTMYWRbm_a547g3XE): DecryptionError[msg: The sender's device has not sent us the keys for this message., session: xlEOI6QzqFdh+4MyHOwH3KxGLGHqNyxzq05d5RNVVg4|PnWrJkQ/Fr/3q6hrTT5xV33Ot00VjYVJz4uGCPPGH3U]
+2021-02-13T21:10:34.774Z I enqueueing key request for !RAxkKAquXJVbQRKcoY:zmthree.xyz / mA5qzDwIr4a2gR0MMyci5Yt4HQwvkxFLfdN035NyBRc
+2021-02-13T21:10:34.776Z W Error decrypting event (id=$i7AmPZ9dQ4aBw2B1sF7nzDKohDB2Bxb-hvJbCLTAX98): DecryptionError[msg: The sender's device has not sent us the keys for this message., session: XKaim/4VX1P6VthsY/AHH1VSGg7x8W6GstbSKOiMPDo|E66ISqV+clWb60Q/ve+e7Vym2shpAYc13j8MdP77cxs]
+2021-02-13T21:10:34.777Z W Error decrypting event (id=$w_R2kqBmpMyDDjc2g8SLyHfi9_bSdlN-zAnz1XVFPys): DecryptionError[msg: The sender's device has not sent us the keys for this message., session: xlEOI6QzqFdh+4MyHOwH3KxGLGHqNyxzq05d5RNVVg4|PnWrJkQ/Fr/3q6hrTT5xV33Ot00VjYVJz4uGCPPGH3U]
+2021-02-13T21:10:34.782Z I enqueueing key request for !RAxkKAquXJVbQRKcoY:zmthree.xyz / 3TvkqSDX00V0oYeNBDqqfmMVBTMUTwBcxYbHEf4TpxI
+2021-02-13T21:10:34.783Z W Error decrypting event (id=$uR5dG-6ddHsdRG0Wrum-JzYHom_3g6Xv_HxW4vs21sI): DecryptionError[msg: The sender's device has not sent us the keys for this message., session: xlEOI6QzqFdh+4MyHOwH3KxGLGHqNyxzq05d5RNVVg4|PnWrJkQ/Fr/3q6hrTT5xV33Ot00VjYVJz4uGCPPGH3U]
+2021-02-13T21:10:34.785Z W Error decrypting event (id=$KcDFe4BpUzWjgVKQ1sKVxF3bva9ys6MYjzVr69x_0bc): DecryptionError[msg: The sender's device has not sent us the keys for this message., session: XKaim/4VX1P6VthsY/AHH1VSGg7x8W6GstbSKOiMPDo|E66ISqV+clWb60Q/ve+e7Vym2shpAYc13j8MdP77cxs]
+2021-02-13T21:10:34.790Z I enqueueing key request for !RAxkKAquXJVbQRKcoY:zmthree.xyz / E66ISqV+clWb60Q/ve+e7Vym2shpAYc13j8MdP77cxs
+2021-02-13T21:10:34.791Z W Error decrypting event (id=$TPqxQDcRxr6q8EHhdte3jnnGOL0dqxhPPwkrlo7lrVg): DecryptionError[msg: The sender's device has not sent us the keys for this message., session: 0YwKYo7unKFtCOdllk++Fm4OryXtZzJjUNqAzQfB7H4|EHc4eDFmpLNFjCHAyin86JvUEZN8NXEeBC0FDkFV9Jg]
+2021-02-13T21:10:34.794Z W Error decrypting event (id=$REnDr1U32ErPaX17OugfdcQZ37sAglPcjghO90TJjcM): DecryptionError[msg: The sender's device has not sent us the keys for this message., session: XKaim/4VX1P6VthsY/AHH1VSGg7x8W6GstbSKOiMPDo|E66ISqV+clWb60Q/ve+e7Vym2shpAYc13j8MdP77cxs]
+2021-02-13T21:10:34.799Z I enqueueing key request for !RAxkKAquXJVbQRKcoY:zmthree.xyz / PnWrJkQ/Fr/3q6hrTT5xV33Ot00VjYVJz4uGCPPGH3U
+2021-02-13T21:10:34.800Z W Error decrypting event (id=$5SNNgh85Ibq4MB1FmSF6oFAZH6N9xwUDu-UBn1lXCiY): DecryptionError[msg: The sender's device has not sent us the keys for this message., session: XKaim/4VX1P6VthsY/AHH1VSGg7x8W6GstbSKOiMPDo|E66ISqV+clWb60Q/ve+e7Vym2shpAYc13j8MdP77cxs]
+2021-02-13T21:10:34.803Z W Error decrypting event (id=$kpTEGCqjwcLc4pQ4l4iqLcAC7VxEuPpWBeBaDW_Qxjw): DecryptionError[msg: The sender's device has not sent us the keys for this message., session: XKaim/4VX1P6VthsY/AHH1VSGg7x8W6GstbSKOiMPDo|E66ISqV+clWb60Q/ve+e7Vym2shpAYc13j8MdP77cxs]
+2021-02-13T21:10:34.807Z I already have key request outstanding for !RAxkKAquXJVbQRKcoY:zmthree.xyz / E66ISqV+clWb60Q/ve+e7Vym2shpAYc13j8MdP77cxs: not sending another
+2021-02-13T21:10:34.807Z W Error decrypting event (id=$k0m8ejvRj2mM3Aigtp97EdgpZ3dPD-sDMJP3JRtM8G8): DecryptionError[msg: The sender's device has not sent us the keys for this message., session: XKaim/4VX1P6VthsY/AHH1VSGg7x8W6GstbSKOiMPDo|E66ISqV+clWb60Q/ve+e7Vym2shpAYc13j8MdP77cxs]
+2021-02-13T21:10:34.809Z I already have key request outstanding for !RAxkKAquXJVbQRKcoY:zmthree.xyz / PnWrJkQ/Fr/3q6hrTT5xV33Ot00VjYVJz4uGCPPGH3U: not sending another
+2021-02-13T21:10:34.810Z W Error decrypting event (id=$K6njPapOyzM2nk2u3C2ojYAMGo2_tPLk6JKXTyrRYfc): DecryptionError[msg: The sender's device has not sent us the keys for this message., session: XKaim/4VX1P6VthsY/AHH1VSGg7x8W6GstbSKOiMPDo|/y0ON6pySyAKdCkXQz3nEeR8ZvSy5ps3vfMU6qsfQX4]
+2021-02-13T21:10:34.811Z I already have key request outstanding for !RAxkKAquXJVbQRKcoY:zmthree.xyz / E66ISqV+clWb60Q/ve+e7Vym2shpAYc13j8MdP77cxs: not sending another
+2021-02-13T21:10:34.812Z W Error decrypting event (id=$txYUnDKUPMW2BgkKKE_MOfrEJE17GyGiNx34aBAwD5M): DecryptionError[msg: The sender's device has not sent us the keys for this message., session: i7fdz2TDnORxgGlZIfR0VC1DotsP29BDbO5I/Q84Ngs|EUuJUuOchV9vu4uzY4sokSsIC5+159rfYq+HdOBMrMQ]
+2021-02-13T21:10:34.814Z I already have key request outstanding for !RAxkKAquXJVbQRKcoY:zmthree.xyz / PnWrJkQ/Fr/3q6hrTT5xV33Ot00VjYVJz4uGCPPGH3U: not sending another
+2021-02-13T21:10:34.814Z W Error decrypting event (id=$hGmxN5b390nNI0y1N0BP5jkTJMJHEI06iW-BIC8FvzM): DecryptionError[msg: The sender's device has not sent us the keys for this message., session: XKaim/4VX1P6VthsY/AHH1VSGg7x8W6GstbSKOiMPDo|/y0ON6pySyAKdCkXQz3nEeR8ZvSy5ps3vfMU6qsfQX4]
+2021-02-13T21:10:34.817Z W Error decrypting event (id=$VxnR9DwXvUgQHSgqCQcO4r_j8xTQYbpPJxIxPbYHjZ8): DecryptionError[msg: The sender's device has not sent us the keys for this message., session: i7fdz2TDnORxgGlZIfR0VC1DotsP29BDbO5I/Q84Ngs|EUuJUuOchV9vu4uzY4sokSsIC5+159rfYq+HdOBMrMQ]
+2021-02-13T21:10:34.819Z I already have key request outstanding for !RAxkKAquXJVbQRKcoY:zmthree.xyz / E66ISqV+clWb60Q/ve+e7Vym2shpAYc13j8MdP77cxs: not sending another
+2021-02-13T21:10:34.820Z W Error decrypting event (id=$8QEzsyXPNuqoRFZB81em_CNRf7qHAWHUZibyyi0p8vY): DecryptionError[msg: The sender's device has not sent us the keys for this message., session: XKaim/4VX1P6VthsY/AHH1VSGg7x8W6GstbSKOiMPDo|/y0ON6pySyAKdCkXQz3nEeR8ZvSy5ps3vfMU6qsfQX4]
+2021-02-13T21:10:34.822Z I already have key request outstanding for !RAxkKAquXJVbQRKcoY:zmthree.xyz / PnWrJkQ/Fr/3q6hrTT5xV33Ot00VjYVJz4uGCPPGH3U: not sending another
+2021-02-13T21:10:34.822Z W Error decrypting event (id=$1p8MfeZY4hvLHKatMihCEz9IUA1ODlu3GcDNQ69-bvY): DecryptionError[msg: The sender's device has not sent us the keys for this message., session: i7fdz2TDnORxgGlZIfR0VC1DotsP29BDbO5I/Q84Ngs|EUuJUuOchV9vu4uzY4sokSsIC5+159rfYq+HdOBMrMQ]
+2021-02-13T21:10:34.825Z I already have key request outstanding for !RAxkKAquXJVbQRKcoY:zmthree.xyz / E66ISqV+clWb60Q/ve+e7Vym2shpAYc13j8MdP77cxs: not sending another
+2021-02-13T21:10:34.825Z W Error decrypting event (id=$3yQQOT-I5SX0OlxLBF4ZPXqP87ojA95nhSwDXhFvhv8): DecryptionError[msg: The sender's device has not sent us the keys for this message., session: XKaim/4VX1P6VthsY/AHH1VSGg7x8W6GstbSKOiMPDo|/y0ON6pySyAKdCkXQz3nEeR8ZvSy5ps3vfMU6qsfQX4]
+2021-02-13T21:10:34.832Z W Error decrypting event (id=$zafjIFsyA73fPDvR96epz3NP_OiRWdpnQmq5unZ7hY8): DecryptionError[msg: The sender's device has not sent us the keys for this message., session: XKaim/4VX1P6VthsY/AHH1VSGg7x8W6GstbSKOiMPDo|/y0ON6pySyAKdCkXQz3nEeR8ZvSy5ps3vfMU6qsfQX4]
+2021-02-13T21:10:34.835Z W Error decrypting event (id=$uIywA2AcEEduO_W7fcVeJlNcBUzwBQI0Te4bZWN5aTk): DecryptionError[msg: The sender's device has not sent us the keys for this message., session: i7fdz2TDnORxgGlZIfR0VC1DotsP29BDbO5I/Q84Ngs|EUuJUuOchV9vu4uzY4sokSsIC5+159rfYq+HdOBMrMQ]
+2021-02-13T21:10:34.837Z I enqueueing key request for !RAxkKAquXJVbQRKcoY:zmthree.xyz / EHc4eDFmpLNFjCHAyin86JvUEZN8NXEeBC0FDkFV9Jg
+2021-02-13T21:10:34.838Z W Error decrypting event (id=$NUfGtHyCMqZJNiPjuNR5IO4YAwwC-dcI9YK5YooOHHw): DecryptionError[msg: The sender's device has not sent us the keys for this message., session: XKaim/4VX1P6VthsY/AHH1VSGg7x8W6GstbSKOiMPDo|/y0ON6pySyAKdCkXQz3nEeR8ZvSy5ps3vfMU6qsfQX4]
+2021-02-13T21:10:34.840Z W Error decrypting event (id=$EwwYkrkhyn5SK3N4HzGUtYIFNg6D7GHJMkd3IsnV7SA): DecryptionError[msg: The sender's device has not sent us the keys for this message., session: i7fdz2TDnORxgGlZIfR0VC1DotsP29BDbO5I/Q84Ngs|EUuJUuOchV9vu4uzY4sokSsIC5+159rfYq+HdOBMrMQ]
+2021-02-13T21:10:34.843Z W Error decrypting event (id=$O0iRRRM_MvvhC54NDs_vR1LQn17sy4ndPeFbfI8UMyg): DecryptionError[msg: The sender's device has not sent us the keys for this message., session: XKaim/4VX1P6VthsY/AHH1VSGg7x8W6GstbSKOiMPDo|/y0ON6pySyAKdCkXQz3nEeR8ZvSy5ps3vfMU6qsfQX4]
+2021-02-13T21:10:34.843Z I enqueueing key request for !RAxkKAquXJVbQRKcoY:zmthree.xyz / /y0ON6pySyAKdCkXQz3nEeR8ZvSy5ps3vfMU6qsfQX4
+2021-02-13T21:10:34.846Z W Error decrypting event (id=$wtBu1HUetH5EOlSGmmiev7fWMBgm-fgGMcvZDc8GzOM): DecryptionError[msg: The sender's device has not sent us the keys for this message., session: i7fdz2TDnORxgGlZIfR0VC1DotsP29BDbO5I/Q84Ngs|EUuJUuOchV9vu4uzY4sokSsIC5+159rfYq+HdOBMrMQ]
+2021-02-13T21:10:34.848Z W Error decrypting event (id=$2gruKJSe3hd4NL31y9omwvAak5MK2p76Htd3tL-7abs): DecryptionError[msg: The sender's device has not sent us the keys for this message., session: XKaim/4VX1P6VthsY/AHH1VSGg7x8W6GstbSKOiMPDo|/y0ON6pySyAKdCkXQz3nEeR8ZvSy5ps3vfMU6qsfQX4]
+2021-02-13T21:10:34.848Z I enqueueing key request for !RAxkKAquXJVbQRKcoY:zmthree.xyz / EUuJUuOchV9vu4uzY4sokSsIC5+159rfYq+HdOBMrMQ
+2021-02-13T21:10:34.850Z W Error decrypting event (id=$cIYwzshyrP3WauN1Qu56yg1LSLZ-IZfk8WHMjc166Ic): DecryptionError[msg: The sender's device has not sent us the keys for this message., session: i7fdz2TDnORxgGlZIfR0VC1DotsP29BDbO5I/Q84Ngs|EUuJUuOchV9vu4uzY4sokSsIC5+159rfYq+HdOBMrMQ]
+2021-02-13T21:10:34.851Z W Error decrypting event (id=$_jopiY5z6ilWw1kmzpBer9ciknN5wnghl6UspAsGeGk): DecryptionError[msg: The sender's device has not sent us the keys for this message., session: XKaim/4VX1P6VthsY/AHH1VSGg7x8W6GstbSKOiMPDo|/y0ON6pySyAKdCkXQz3nEeR8ZvSy5ps3vfMU6qsfQX4]
+2021-02-13T21:10:34.854Z I already have key request outstanding for !RAxkKAquXJVbQRKcoY:zmthree.xyz / /y0ON6pySyAKdCkXQz3nEeR8ZvSy5ps3vfMU6qsfQX4: not sending another
+2021-02-13T21:10:34.855Z W Error decrypting event (id=$vbiR2nprYZ7crZA64So1Ol907cYziuTiYm7OJHXmFsI): DecryptionError[msg: The sender's device has not sent us the keys for this message., session: i7fdz2TDnORxgGlZIfR0VC1DotsP29BDbO5I/Q84Ngs|EUuJUuOchV9vu4uzY4sokSsIC5+159rfYq+HdOBMrMQ]
+2021-02-13T21:10:34.856Z I already have key request outstanding for !RAxkKAquXJVbQRKcoY:zmthree.xyz / EUuJUuOchV9vu4uzY4sokSsIC5+159rfYq+HdOBMrMQ: not sending another
+2021-02-13T21:10:34.857Z W Error decrypting event (id=$BxRDC2n0qMs5Ub5Lyhg1UYBK7XcSyQSgYeP-04AN3JM): DecryptionError[msg: The sender's device has not sent us the keys for this message., session: XKaim/4VX1P6VthsY/AHH1VSGg7x8W6GstbSKOiMPDo|/y0ON6pySyAKdCkXQz3nEeR8ZvSy5ps3vfMU6qsfQX4]
+2021-02-13T21:10:34.858Z I already have key request outstanding for !RAxkKAquXJVbQRKcoY:zmthree.xyz / /y0ON6pySyAKdCkXQz3nEeR8ZvSy5ps3vfMU6qsfQX4: not sending another
+2021-02-13T21:10:34.858Z W Error decrypting event (id=$aLzMOt_-9ig5u0WnTJdWTdyeUUy3s3Rrr2a2invrWJE): DecryptionError[msg: The sender's device has not sent us the keys for this message., session: i7fdz2TDnORxgGlZIfR0VC1DotsP29BDbO5I/Q84Ngs|EUuJUuOchV9vu4uzY4sokSsIC5+159rfYq+HdOBMrMQ]
+2021-02-13T21:10:34.860Z I already have key request outstanding for !RAxkKAquXJVbQRKcoY:zmthree.xyz / EUuJUuOchV9vu4uzY4sokSsIC5+159rfYq+HdOBMrMQ: not sending another
+2021-02-13T21:10:34.862Z I already have key request outstanding for !RAxkKAquXJVbQRKcoY:zmthree.xyz / /y0ON6pySyAKdCkXQz3nEeR8ZvSy5ps3vfMU6qsfQX4: not sending another
+2021-02-13T21:10:34.864Z I already have key request outstanding for !RAxkKAquXJVbQRKcoY:zmthree.xyz / /y0ON6pySyAKdCkXQz3nEeR8ZvSy5ps3vfMU6qsfQX4: not sending another
+2021-02-13T21:10:34.865Z I already have key request outstanding for !RAxkKAquXJVbQRKcoY:zmthree.xyz / EUuJUuOchV9vu4uzY4sokSsIC5+159rfYq+HdOBMrMQ: not sending another
+2021-02-13T21:10:34.866Z I already have key request outstanding for !RAxkKAquXJVbQRKcoY:zmthree.xyz / /y0ON6pySyAKdCkXQz3nEeR8ZvSy5ps3vfMU6qsfQX4: not sending another
+2021-02-13T21:10:34.867Z I already have key request outstanding for !RAxkKAquXJVbQRKcoY:zmthree.xyz / EUuJUuOchV9vu4uzY4sokSsIC5+159rfYq+HdOBMrMQ: not sending another
+2021-02-13T21:10:34.868Z I already have key request outstanding for !RAxkKAquXJVbQRKcoY:zmthree.xyz / /y0ON6pySyAKdCkXQz3nEeR8ZvSy5ps3vfMU6qsfQX4: not sending another
+2021-02-13T21:10:34.869Z I already have key request outstanding for !RAxkKAquXJVbQRKcoY:zmthree.xyz / EUuJUuOchV9vu4uzY4sokSsIC5+159rfYq+HdOBMrMQ: not sending another
+2021-02-13T21:10:34.870Z I already have key request outstanding for !RAxkKAquXJVbQRKcoY:zmthree.xyz / /y0ON6pySyAKdCkXQz3nEeR8ZvSy5ps3vfMU6qsfQX4: not sending another
+2021-02-13T21:10:34.871Z I already have key request outstanding for !RAxkKAquXJVbQRKcoY:zmthree.xyz / EUuJUuOchV9vu4uzY4sokSsIC5+159rfYq+HdOBMrMQ: not sending another
+2021-02-13T21:10:34.872Z I already have key request outstanding for !RAxkKAquXJVbQRKcoY:zmthree.xyz / /y0ON6pySyAKdCkXQz3nEeR8ZvSy5ps3vfMU6qsfQX4: not sending another
+2021-02-13T21:10:34.873Z I already have key request outstanding for !RAxkKAquXJVbQRKcoY:zmthree.xyz / EUuJUuOchV9vu4uzY4sokSsIC5+159rfYq+HdOBMrMQ: not sending another
+2021-02-13T21:10:34.874Z I already have key request outstanding for !RAxkKAquXJVbQRKcoY:zmthree.xyz / /y0ON6pySyAKdCkXQz3nEeR8ZvSy5ps3vfMU6qsfQX4: not sending another
+2021-02-13T21:10:34.875Z I already have key request outstanding for !RAxkKAquXJVbQRKcoY:zmthree.xyz / EUuJUuOchV9vu4uzY4sokSsIC5+159rfYq+HdOBMrMQ: not sending another
+2021-02-13T21:10:35.059Z I Requesting keys for !RAxkKAquXJVbQRKcoY:zmthree.xyz / jF9/m/K7FOxYkMj1jA0ZVyH/uLrtb8p6OKOIi53/RqY from [@zachm216:zmthree.xyz:*,@bot.matrix-reminder-bot:zmthree.xyz:REMINDER](id m1613250634567.13)
+2021-02-13T21:10:35.059Z I PUT /sendToDevice/m.room_key_request/m1613250634567.13 {"@zachm216:zmthree.xyz":["*"],"@bot.matrix-reminder-bot:zmthree.xyz":["REMINDER"]}
+2021-02-13T21:10:35.127Z I Requesting keys for !RAxkKAquXJVbQRKcoY:zmthree.xyz / xRURcl4VeZM5FUZRZBdm1oT9BbhehUz5EQV2Tjijjfo from [@zachm216:zmthree.xyz:*,@bot.matrix-reminder-bot:zmthree.xyz:REMINDER](id m1613250634578.14)
+2021-02-13T21:10:35.127Z I PUT /sendToDevice/m.room_key_request/m1613250634578.14 {"@zachm216:zmthree.xyz":["*"],"@bot.matrix-reminder-bot:zmthree.xyz":["REMINDER"]}
+2021-02-13T21:10:35.187Z I Requesting keys for !RAxkKAquXJVbQRKcoY:zmthree.xyz / +ysQU/cebSs9fDySSk3cwWeHOshDvZnnradp4rvgafU from [@zachm216:zmthree.xyz:*,@bot.matrix-reminder-bot:zmthree.xyz:REMINDER](id m1613250634578.15)
+2021-02-13T21:10:35.187Z I PUT /sendToDevice/m.room_key_request/m1613250634578.15 {"@zachm216:zmthree.xyz":["*"],"@bot.matrix-reminder-bot:zmthree.xyz":["REMINDER"]}
+2021-02-13T21:10:35.256Z I Requesting keys for !RAxkKAquXJVbQRKcoY:zmthree.xyz / mPGjhhEUsViDQgpGNZUUcVmyak6v309QjThmNqkg+I0 from [@zachm216:zmthree.xyz:*](id m1613250634579.16)
+2021-02-13T21:10:35.256Z I PUT /sendToDevice/m.room_key_request/m1613250634579.16 {"@zachm216:zmthree.xyz":["*"]}
+2021-02-13T21:10:35.321Z I Requesting keys for !RAxkKAquXJVbQRKcoY:zmthree.xyz / 9ZUX5FlZsneZnFHMyfs45ZM7jeYy6N7osRWrebwjHcA from [@zachm216:zmthree.xyz:*,@bot.matrix-reminder-bot:zmthree.xyz:REMINDER](id m1613250634608.18)
+2021-02-13T21:10:35.321Z I PUT /sendToDevice/m.room_key_request/m1613250634608.18 {"@zachm216:zmthree.xyz":["*"],"@bot.matrix-reminder-bot:zmthree.xyz":["REMINDER"]}
+2021-02-13T21:10:35.444Z I Requesting keys for !RAxkKAquXJVbQRKcoY:zmthree.xyz / Aj+JwaRzUeKOxqEDkYKotyKqQJLuldMlF+tialogRkM from [@zachm216:zmthree.xyz:*,@bot.matrix-reminder-bot:zmthree.xyz:REMINDER](id m1613250634613.19)
+2021-02-13T21:10:35.445Z I PUT /sendToDevice/m.room_key_request/m1613250634613.19 {"@zachm216:zmthree.xyz":["*"],"@bot.matrix-reminder-bot:zmthree.xyz":["REMINDER"]}
+2021-02-13T21:10:35.510Z I Requesting keys for !RAxkKAquXJVbQRKcoY:zmthree.xyz / DfvjqSKH5kDLrJdk03Kpn1swL7Gd/jaleh5MsJijSpk from [@zachm216:zmthree.xyz:*,@bot.matrix-reminder-bot:zmthree.xyz:REMINDER](id m1613250634614.20)
+2021-02-13T21:10:35.510Z I PUT /sendToDevice/m.room_key_request/m1613250634614.20 {"@zachm216:zmthree.xyz":["*"],"@bot.matrix-reminder-bot:zmthree.xyz":["REMINDER"]}
+2021-02-13T21:10:35.581Z I Requesting keys for !RAxkKAquXJVbQRKcoY:zmthree.xyz / rEhoUgFFPNe4gW9k5zEpTMpYe8+iASmGTEYw3/hvPRk from [@zachm216:zmthree.xyz:*,@bot.matrix-reminder-bot:zmthree.xyz:REMINDER](id m1613250634614.22)
+2021-02-13T21:10:35.582Z I PUT /sendToDevice/m.room_key_request/m1613250634614.22 {"@zachm216:zmthree.xyz":["*"],"@bot.matrix-reminder-bot:zmthree.xyz":["REMINDER"]}
+2021-02-13T21:10:35.651Z I Requesting keys for !RAxkKAquXJVbQRKcoY:zmthree.xyz / NsKQM4WXVGcj/SVwess5cK27xH44qHceItEnmm7M0DQ from [@zachm216:zmthree.xyz:*,@bot.matrix-reminder-bot:zmthree.xyz:REMINDER](id m1613250634614.23)
+2021-02-13T21:10:35.651Z I PUT /sendToDevice/m.room_key_request/m1613250634614.23 {"@zachm216:zmthree.xyz":["*"],"@bot.matrix-reminder-bot:zmthree.xyz":["REMINDER"]}
+2021-02-13T21:10:35.718Z I Requesting keys for !RAxkKAquXJVbQRKcoY:zmthree.xyz / ZnRdXCbnbx4sLTbaekO4aa4zt2MPRzZVfsJE/iv9L0I from [@zachm216:zmthree.xyz:*,@bot.matrix-reminder-bot:zmthree.xyz:REMINDER](id m1613250634615.24)
+2021-02-13T21:10:35.718Z I PUT /sendToDevice/m.room_key_request/m1613250634615.24 {"@zachm216:zmthree.xyz":["*"],"@bot.matrix-reminder-bot:zmthree.xyz":["REMINDER"]}
+2021-02-13T21:10:35.792Z I Requesting keys for !RAxkKAquXJVbQRKcoY:zmthree.xyz / HYTWRuqwi0qNCqnWPX5fAIeJyXfMC09YeqnAINSG1d8 from [@zachm216:zmthree.xyz:*,@bot.matrix-reminder-bot:zmthree.xyz:REMINDER](id m1613250634615.26)
+2021-02-13T21:10:35.792Z I PUT /sendToDevice/m.room_key_request/m1613250634615.26 {"@zachm216:zmthree.xyz":["*"],"@bot.matrix-reminder-bot:zmthree.xyz":["REMINDER"]}
+2021-02-13T21:10:35.858Z I Requesting keys for !RAxkKAquXJVbQRKcoY:zmthree.xyz / S7Vt1XFkURWWL3/Egu1WhqxoJcGwWDOG/4g1HEcX0XE from [@zachm216:zmthree.xyz:*](id m1613250634627.27)
+2021-02-13T21:10:35.858Z I PUT /sendToDevice/m.room_key_request/m1613250634627.27 {"@zachm216:zmthree.xyz":["*"]}
+2021-02-13T21:10:35.923Z I Requesting keys for !RAxkKAquXJVbQRKcoY:zmthree.xyz / zOrX1MO+RUqpq6x+UwEvh0TZAL76BctaSzbchQQ91lE from [@zachm216:zmthree.xyz:*](id m1613250634688.29)
+2021-02-13T21:10:35.923Z I PUT /sendToDevice/m.room_key_request/m1613250634688.29 {"@zachm216:zmthree.xyz":["*"]}
+2021-02-13T21:10:35.975Z I Requesting keys for !RAxkKAquXJVbQRKcoY:zmthree.xyz / fIVnTD/urQhAB25rT7Nm35+ABm9siYVme1oW43sXdJI from [@zachm216:zmthree.xyz:*](id m1613250634705.32)
+2021-02-13T21:10:35.975Z I PUT /sendToDevice/m.room_key_request/m1613250634705.32 {"@zachm216:zmthree.xyz":["*"]}
+2021-02-13T21:10:36.047Z I Requesting keys for !RAxkKAquXJVbQRKcoY:zmthree.xyz / mA5qzDwIr4a2gR0MMyci5Yt4HQwvkxFLfdN035NyBRc from [@zachm216:zmthree.xyz:*,@bot.matrix-reminder-bot:zmthree.xyz:REMINDER](id m1613250634705.34)
+2021-02-13T21:10:36.047Z I PUT /sendToDevice/m.room_key_request/m1613250634705.34 {"@zachm216:zmthree.xyz":["*"],"@bot.matrix-reminder-bot:zmthree.xyz":["REMINDER"]}
+2021-02-13T21:10:36.108Z I Requesting keys for !RAxkKAquXJVbQRKcoY:zmthree.xyz / 3TvkqSDX00V0oYeNBDqqfmMVBTMUTwBcxYbHEf4TpxI from [@zachm216:zmthree.xyz:*,@bot.matrix-reminder-bot:zmthree.xyz:REMINDER](id m1613250634705.35)
+2021-02-13T21:10:36.109Z I PUT /sendToDevice/m.room_key_request/m1613250634705.35 {"@zachm216:zmthree.xyz":["*"],"@bot.matrix-reminder-bot:zmthree.xyz":["REMINDER"]}
+2021-02-13T21:10:36.181Z I Requesting keys for !RAxkKAquXJVbQRKcoY:zmthree.xyz / E66ISqV+clWb60Q/ve+e7Vym2shpAYc13j8MdP77cxs from [@zachm216:zmthree.xyz:*,@bot.matrix-reminder-bot:zmthree.xyz:REMINDER](id m1613250634706.36)
+2021-02-13T21:10:36.181Z I PUT /sendToDevice/m.room_key_request/m1613250634706.36 {"@zachm216:zmthree.xyz":["*"],"@bot.matrix-reminder-bot:zmthree.xyz":["REMINDER"]}
+2021-02-13T21:10:36.275Z I Requesting keys for !RAxkKAquXJVbQRKcoY:zmthree.xyz / PnWrJkQ/Fr/3q6hrTT5xV33Ot00VjYVJz4uGCPPGH3U from [@zachm216:zmthree.xyz:*](id m1613250634706.37)
+2021-02-13T21:10:36.275Z I PUT /sendToDevice/m.room_key_request/m1613250634706.37 {"@zachm216:zmthree.xyz":["*"]}
+2021-02-13T21:10:36.340Z I Requesting keys for !RAxkKAquXJVbQRKcoY:zmthree.xyz / EHc4eDFmpLNFjCHAyin86JvUEZN8NXEeBC0FDkFV9Jg from [@zachm216:zmthree.xyz:*](id m1613250634826.45)
+2021-02-13T21:10:36.340Z I PUT /sendToDevice/m.room_key_request/m1613250634826.45 {"@zachm216:zmthree.xyz":["*"]}
+2021-02-13T21:10:36.404Z I Requesting keys for !RAxkKAquXJVbQRKcoY:zmthree.xyz / /y0ON6pySyAKdCkXQz3nEeR8ZvSy5ps3vfMU6qsfQX4 from [@zachm216:zmthree.xyz:*,@bot.matrix-reminder-bot:zmthree.xyz:REMINDER](id m1613250634827.46)
+2021-02-13T21:10:36.405Z I PUT /sendToDevice/m.room_key_request/m1613250634827.46 {"@zachm216:zmthree.xyz":["*"],"@bot.matrix-reminder-bot:zmthree.xyz":["REMINDER"]}
+2021-02-13T21:10:36.481Z I Requesting keys for !RAxkKAquXJVbQRKcoY:zmthree.xyz / EUuJUuOchV9vu4uzY4sokSsIC5+159rfYq+HdOBMrMQ from [@zachm216:zmthree.xyz:*](id m1613250634828.47)
+2021-02-13T21:10:36.482Z I PUT /sendToDevice/m.room_key_request/m1613250634828.47 {"@zachm216:zmthree.xyz":["*"]}
+2021-02-13T21:10:36.521Z I Bootstrapping cross-signing
+2021-02-13T21:10:36.524Z I {"publicKeysOnDevice":null,"privateKeysInCache":false,"privateKeysInStorage":{"ddwlApOjmbvBarQVgpyr3gm9lIZ1xZGb":{"algorithm":"m.secret_storage.v1.aes-hmac-sha2","iv":"9k83aVN1FcxF3WunU9l9Ug==","mac":"4q3TO3+XW1+05WLCECLMBIM8OpY9F22Lc/H5MBJe4yw="}},"privateKeysExistSomewhere":{"ddwlApOjmbvBarQVgpyr3gm9lIZ1xZGb":{"algorithm":"m.secret_storage.v1.aes-hmac-sha2","iv":"9k83aVN1FcxF3WunU9l9Ug==","mac":"4q3TO3+XW1+05WLCECLMBIM8OpY9F22Lc/H5MBJe4yw="}}}
+2021-02-13T21:10:36.524Z I Cross-signing private keys not found locally, but they are available in secret storage, reading storage and caching locally
+2021-02-13T21:10:36.525Z I downloadKeys: already have all necessary keys
+2021-02-13T21:10:36.526Z I Got new master public key GM8xOAkI3C77ZXz1VnT4dZ1tGj9gBYbk1kaBBcUyRx0
+2021-02-13T21:10:36.526Z I Attempting to retrieve cross-signing master private key
+2021-02-13T21:10:36.534Z I Starting load of AsyncWrapper for modal
+2021-02-13T21:10:38.054Z W Error decrypting event (id=$N6Uu_pAK-8WL2z1dPo-hTI3Ui1sXzVt4WQrJCiZpiyE): DecryptionError[msg: The sender's device has not sent us the keys for this message., session: XKaim/4VX1P6VthsY/AHH1VSGg7x8W6GstbSKOiMPDo|4uqQs97hKC/A3vZiakwXUGdHWMEyepeGPZqLaylb+fk]
+2021-02-13T21:10:38.058Z W Error decrypting event (id=$IUNd925p-ZV5rrE7enf3rt2DI6L50Amt1I_mfKUAt6A): DecryptionError[msg: The sender's device has not sent us the keys for this message., session: 1J2vH9dbtNFz2RRmFlO1/mVqB/yIipwYDpg3VTN51Sw|AZWuOg1JoZw2Jllyl9sXtgfp9Bo7z9U1YgfDHtzYxaE]
+2021-02-13T21:10:38.061Z W Error decrypting event (id=$WrTeyMp6CRUqqnCdM8JWX73vwjuYm_Tgqrk_CvoBuJY): DecryptionError[msg: The sender's device has not sent us the keys for this message., session: XKaim/4VX1P6VthsY/AHH1VSGg7x8W6GstbSKOiMPDo|4uqQs97hKC/A3vZiakwXUGdHWMEyepeGPZqLaylb+fk]
+2021-02-13T21:10:38.065Z W Error decrypting event (id=$ffwADvE-qY2A_a7VLo8ZlKiPqkIDiMLIQldPD0EmfDU): DecryptionError[msg: The sender's device has not sent us the keys for this message., session: XKaim/4VX1P6VthsY/AHH1VSGg7x8W6GstbSKOiMPDo|4uqQs97hKC/A3vZiakwXUGdHWMEyepeGPZqLaylb+fk]
+2021-02-13T21:10:38.067Z W Error decrypting event (id=$7mF18wIwazKmnJk7SubkpaMDoGmPRpcDZyxoA_pxx1U): DecryptionError[msg: The sender's device has not sent us the keys for this message., session: XKaim/4VX1P6VthsY/AHH1VSGg7x8W6GstbSKOiMPDo|rO6ANZ4X4MKxI9jmI87kqljqkANeEHUPJ09ycAKeKc4]
+2021-02-13T21:10:38.070Z W Error decrypting event (id=$iQXDRI9ucsqYO0dHZH3281HGcyf1fet7Cwcu526Fwck): DecryptionError[msg: The sender's device has not sent us the keys for this message., session: 9FBw4g94ob8DgTLofodjIQhBpeM+mNze1hI3FwSMKUQ|hsB6acG9KwtVq7959S+xhP86mKm4J9r2vaiy57EHUBo]
+2021-02-13T21:10:38.072Z W Error decrypting event (id=$SFyxIjilwSEvqOchzZidKbT_sFVUhT8kCjycINq5kHc): DecryptionError[msg: The sender's device has not sent us the keys for this message., session: XKaim/4VX1P6VthsY/AHH1VSGg7x8W6GstbSKOiMPDo|e1r9GPWwOPY2VFHCx/5U8ds+X26JFUi7U173fFILFZM]
+2021-02-13T21:10:38.074Z W Error decrypting event (id=$G2VRk3PEYjKvQ0HVsCMZIsL5sCuEWOrJgPdBybMG17A): DecryptionError[msg: The sender's device has not sent us the keys for this message., session: XKaim/4VX1P6VthsY/AHH1VSGg7x8W6GstbSKOiMPDo|e1r9GPWwOPY2VFHCx/5U8ds+X26JFUi7U173fFILFZM]
+2021-02-13T21:10:38.077Z W Error decrypting event (id=$NPtMl90kiUFFvrRtjLLobSv4O9hchRtFWBtacfU_iYE): DecryptionError[msg: The sender's device has not sent us the keys for this message., session: xlEOI6QzqFdh+4MyHOwH3KxGLGHqNyxzq05d5RNVVg4|Flou781o6eclS4R6A5oz1pL8DcxiXxcX93HglAaq9/k]
+2021-02-13T21:10:38.085Z W Error decrypting event (id=$Vwx9-Y7nzPy_TwGOR7dAVZHTwPU8h2Tmp2Sh5XG5LWk): DecryptionError[msg: The sender's device has not sent us the keys for this message., session: XKaim/4VX1P6VthsY/AHH1VSGg7x8W6GstbSKOiMPDo|e1r9GPWwOPY2VFHCx/5U8ds+X26JFUi7U173fFILFZM]
+2021-02-13T21:10:38.088Z W Error decrypting event (id=$6mwTDSEFi_kxU3lDtKemWJd8qdOzepyVax7Js6hl2zk): DecryptionError[msg: The sender's device has not sent us the keys for this message., session: xlEOI6QzqFdh+4MyHOwH3KxGLGHqNyxzq05d5RNVVg4|Flou781o6eclS4R6A5oz1pL8DcxiXxcX93HglAaq9/k]
+2021-02-13T21:10:38.092Z W Error decrypting event (id=$ZlKvdfiHs5lnE8KYldclklg-ljTJoTMA4wwYiSYhs_c): DecryptionError[msg: The sender's device has not sent us the keys for this message., session: XKaim/4VX1P6VthsY/AHH1VSGg7x8W6GstbSKOiMPDo|e1r9GPWwOPY2VFHCx/5U8ds+X26JFUi7U173fFILFZM]
+2021-02-13T21:10:38.094Z W Error decrypting event (id=$81-J-0XjXnc4-g8sMdKVPy_Z2M5wSFiM3GwBLilzuVI): DecryptionError[msg: The sender's device has not sent us the keys for this message., session: XKaim/4VX1P6VthsY/AHH1VSGg7x8W6GstbSKOiMPDo|e1r9GPWwOPY2VFHCx/5U8ds+X26JFUi7U173fFILFZM]
+2021-02-13T21:10:38.099Z W Error decrypting event (id=$UQIj0fobwnbpvclz2aCRCE1YtpdQBcZKUVG1QPVJXmQ): DecryptionError[msg: The sender's device has not sent us the keys for this message., session: XKaim/4VX1P6VthsY/AHH1VSGg7x8W6GstbSKOiMPDo|e1r9GPWwOPY2VFHCx/5U8ds+X26JFUi7U173fFILFZM]
+2021-02-13T21:10:38.103Z W Error decrypting event (id=$1YcanNT2gIeK69B3gKYmy_ETUIbSx0DjZJGwwhJ0Poc): DecryptionError[msg: The sender's device has not sent us the keys for this message., session: XKaim/4VX1P6VthsY/AHH1VSGg7x8W6GstbSKOiMPDo|WAGJLJrqr/qAjRVIG4DLBXfD6XuedD0Urf1Z3blSCIY]
+2021-02-13T21:10:38.104Z W Error decrypting event (id=$79Y2LLr2ydXXubDwLpaLCXw8oqPgBJBNUOIFcLGRmyk): DecryptionError[msg: The sender's device has not sent us the keys for this message., session: XKaim/4VX1P6VthsY/AHH1VSGg7x8W6GstbSKOiMPDo|WAGJLJrqr/qAjRVIG4DLBXfD6XuedD0Urf1Z3blSCIY]
+2021-02-13T21:10:38.106Z W Error decrypting event (id=$bIxIJX48QUw7J3vq17AYq9pq_tyS8Gezbuzr2AgDW70): DecryptionError[msg: The sender's device has not sent us the keys for this message., session: XKaim/4VX1P6VthsY/AHH1VSGg7x8W6GstbSKOiMPDo|4cgfrTXGEPZerUbOq0a1k6X56O4V3Jzun8erQzEOsW4]
+2021-02-13T21:10:38.108Z W Error decrypting event (id=$Xsqr6bqLLecY8aNHPCJf5MCcZ5uJwvCTmeyPLOvs6Vs): DecryptionError[msg: The sender's device has not sent us the keys for this message., session: XKaim/4VX1P6VthsY/AHH1VSGg7x8W6GstbSKOiMPDo|4cgfrTXGEPZerUbOq0a1k6X56O4V3Jzun8erQzEOsW4]
+2021-02-13T21:10:38.109Z W Error decrypting event (id=$IC1ptp_1xLFj1ifXF0x7uOyy_q2H4Y1YuHc_UsdGu-s): DecryptionError[msg: The sender's device has not sent us the keys for this message., session: XKaim/4VX1P6VthsY/AHH1VSGg7x8W6GstbSKOiMPDo|4cgfrTXGEPZerUbOq0a1k6X56O4V3Jzun8erQzEOsW4]
+2021-02-13T21:10:38.110Z W Error decrypting event (id=$HF393GvcNX-rq-8XYuTisgMIA4npYkFM6AWKlpSIn5Y): DecryptionError[msg: The sender's device has not sent us the keys for this message., session: XKaim/4VX1P6VthsY/AHH1VSGg7x8W6GstbSKOiMPDo|g7AinXE9MCpv41uiVs5BCuqt+iWNX6EPw+QTDjpT1mE]
+2021-02-13T21:10:38.653Z E Cross-signing master private key not available Secret storage access canceled
+Error: Secret storage access canceled
+    at Object.getSecretStorageKey (vector://vector/webapp/bundles/8bdd9bb39f69e827e0f8/vendors~init.js:2:482874)
+    at async l._getSecretStorageKey (vector://vector/webapp/bundles/8bdd9bb39f69e827e0f8/vendors~init.js:2:2181992)
+    at async l.get (vector://vector/webapp/bundles/8bdd9bb39f69e827e0f8/vendors~init.js:2:2178452)
+    at async Function.getFromSecretStorage (vector://vector/webapp/bundles/8bdd9bb39f69e827e0f8/vendors~init.js:2:877643)
+    at async u.getCrossSigningKey (vector://vector/webapp/bundles/8bdd9bb39f69e827e0f8/vendors~init.js:2:876838)
+    at async M.checkOwnCrossSigningTrust (vector://vector/webapp/bundles/8bdd9bb39f69e827e0f8/vendors~init.js:2:843208)
+    at async M.bootstrapCrossSigning (vector://vector/webapp/bundles/8bdd9bb39f69e827e0f8/vendors~init.js:2:833376)
+    at async O (vector://vector/webapp/bundles/8bdd9bb39f69e827e0f8/vendors~init.js:2:484984)
+2021-02-13T21:10:38.657Z I Got new self-signing key 6vXYa2UkAPXr23jLiy01UIS8MsQuNfeU2xBe4YWj4HM
+2021-02-13T21:10:38.657Z I Attempting to retrieve cross-signing self-signing private key
+2021-02-13T21:10:38.671Z I Starting load of AsyncWrapper for modal
+2021-02-13T21:10:38.845Z I received to_device m.room_key_request from: @zachm216:zmthree.xyz id: undefined
+2021-02-13T21:10:38.845Z I received to_device m.room_key_request from: @zachm216:zmthree.xyz id: undefined
+2021-02-13T21:10:38.845Z I received to_device m.room_key_request from: @zachm216:zmthree.xyz id: undefined
+2021-02-13T21:10:38.845Z I received to_device m.room_key_request from: @zachm216:zmthree.xyz id: undefined
+2021-02-13T21:10:38.845Z I received to_device m.room_key_request from: @zachm216:zmthree.xyz id: undefined
+2021-02-13T21:10:38.846Z I received to_device m.room_key_request from: @zachm216:zmthree.xyz id: undefined
+2021-02-13T21:10:38.846Z I received to_device m.room_key_request from: @zachm216:zmthree.xyz id: undefined
+2021-02-13T21:10:38.846Z I received to_device m.room_key_request from: @zachm216:zmthree.xyz id: undefined
+2021-02-13T21:10:38.846Z I received to_device m.room_key_request from: @zachm216:zmthree.xyz id: undefined
+2021-02-13T21:10:38.846Z I received to_device m.room_key_request from: @zachm216:zmthree.xyz id: undefined
+2021-02-13T21:10:38.846Z I received to_device m.room_key_request from: @zachm216:zmthree.xyz id: undefined
+2021-02-13T21:10:38.846Z I received to_device m.room_key_request from: @zachm216:zmthree.xyz id: undefined
+2021-02-13T21:10:38.846Z I received to_device m.room_key_request from: @zachm216:zmthree.xyz id: undefined
+2021-02-13T21:10:38.846Z I received to_device m.room_key_request from: @zachm216:zmthree.xyz id: undefined
+2021-02-13T21:10:38.846Z I received to_device m.room_key_request from: @zachm216:zmthree.xyz id: undefined
+2021-02-13T21:10:38.846Z I received to_device m.room_key_request from: @zachm216:zmthree.xyz id: undefined
+2021-02-13T21:10:38.846Z I received to_device m.room_key_request from: @zachm216:zmthree.xyz id: undefined
+2021-02-13T21:10:38.846Z I received to_device m.room_key_request from: @zachm216:zmthree.xyz id: undefined
+2021-02-13T21:10:38.846Z I received to_device m.room_key_request from: @zachm216:zmthree.xyz id: undefined
+2021-02-13T21:10:38.846Z I received to_device m.room_key_request from: @zachm216:zmthree.xyz id: undefined
+2021-02-13T21:10:38.846Z I received to_device m.room_key_request from: @zachm216:zmthree.xyz id: undefined
+2021-02-13T21:10:38.847Z I m.room_key_request from @zachm216:zmthree.xyz:FFLRWUNEGG for !RAxkKAquXJVbQRKcoY:zmthree.xyz / jF9/m/K7FOxYkMj1jA0ZVyH/uLrtb8p6OKOIi53/RqY (id m1613250634567.13)
+2021-02-13T21:10:38.847Z I Ignoring room key request from ourselves
+2021-02-13T21:10:38.847Z I m.room_key_request from @zachm216:zmthree.xyz:FFLRWUNEGG for !RAxkKAquXJVbQRKcoY:zmthree.xyz / xRURcl4VeZM5FUZRZBdm1oT9BbhehUz5EQV2Tjijjfo (id m1613250634578.14)
+2021-02-13T21:10:38.847Z I Ignoring room key request from ourselves
+2021-02-13T21:10:38.847Z I m.room_key_request from @zachm216:zmthree.xyz:FFLRWUNEGG for !RAxkKAquXJVbQRKcoY:zmthree.xyz / +ysQU/cebSs9fDySSk3cwWeHOshDvZnnradp4rvgafU (id m1613250634578.15)
+2021-02-13T21:10:38.847Z I Ignoring room key request from ourselves
+2021-02-13T21:10:38.847Z I m.room_key_request from @zachm216:zmthree.xyz:FFLRWUNEGG for !RAxkKAquXJVbQRKcoY:zmthree.xyz / mPGjhhEUsViDQgpGNZUUcVmyak6v309QjThmNqkg+I0 (id m1613250634579.16)
+2021-02-13T21:10:38.847Z I Ignoring room key request from ourselves
+2021-02-13T21:10:38.847Z I m.room_key_request from @zachm216:zmthree.xyz:FFLRWUNEGG for !RAxkKAquXJVbQRKcoY:zmthree.xyz / 9ZUX5FlZsneZnFHMyfs45ZM7jeYy6N7osRWrebwjHcA (id m1613250634608.18)
+2021-02-13T21:10:38.847Z I Ignoring room key request from ourselves
+2021-02-13T21:10:38.847Z I m.room_key_request from @zachm216:zmthree.xyz:FFLRWUNEGG for !RAxkKAquXJVbQRKcoY:zmthree.xyz / Aj+JwaRzUeKOxqEDkYKotyKqQJLuldMlF+tialogRkM (id m1613250634613.19)
+2021-02-13T21:10:38.847Z I Ignoring room key request from ourselves
+2021-02-13T21:10:38.847Z I m.room_key_request from @zachm216:zmthree.xyz:FFLRWUNEGG for !RAxkKAquXJVbQRKcoY:zmthree.xyz / DfvjqSKH5kDLrJdk03Kpn1swL7Gd/jaleh5MsJijSpk (id m1613250634614.20)
+2021-02-13T21:10:38.847Z I Ignoring room key request from ourselves
+2021-02-13T21:10:38.847Z I m.room_key_request from @zachm216:zmthree.xyz:FFLRWUNEGG for !RAxkKAquXJVbQRKcoY:zmthree.xyz / rEhoUgFFPNe4gW9k5zEpTMpYe8+iASmGTEYw3/hvPRk (id m1613250634614.22)
+2021-02-13T21:10:38.847Z I Ignoring room key request from ourselves
+2021-02-13T21:10:38.847Z I m.room_key_request from @zachm216:zmthree.xyz:FFLRWUNEGG for !RAxkKAquXJVbQRKcoY:zmthree.xyz / NsKQM4WXVGcj/SVwess5cK27xH44qHceItEnmm7M0DQ (id m1613250634614.23)
+2021-02-13T21:10:38.847Z I Ignoring room key request from ourselves
+2021-02-13T21:10:38.847Z I m.room_key_request from @zachm216:zmthree.xyz:FFLRWUNEGG for !RAxkKAquXJVbQRKcoY:zmthree.xyz / ZnRdXCbnbx4sLTbaekO4aa4zt2MPRzZVfsJE/iv9L0I (id m1613250634615.24)
+2021-02-13T21:10:38.847Z I Ignoring room key request from ourselves
+2021-02-13T21:10:38.847Z I m.room_key_request from @zachm216:zmthree.xyz:FFLRWUNEGG for !RAxkKAquXJVbQRKcoY:zmthree.xyz / HYTWRuqwi0qNCqnWPX5fAIeJyXfMC09YeqnAINSG1d8 (id m1613250634615.26)
+2021-02-13T21:10:38.847Z I Ignoring room key request from ourselves
+2021-02-13T21:10:38.848Z I m.room_key_request from @zachm216:zmthree.xyz:FFLRWUNEGG for !RAxkKAquXJVbQRKcoY:zmthree.xyz / S7Vt1XFkURWWL3/Egu1WhqxoJcGwWDOG/4g1HEcX0XE (id m1613250634627.27)
+2021-02-13T21:10:38.848Z I Ignoring room key request from ourselves
+2021-02-13T21:10:38.848Z I m.room_key_request from @zachm216:zmthree.xyz:FFLRWUNEGG for !RAxkKAquXJVbQRKcoY:zmthree.xyz / zOrX1MO+RUqpq6x+UwEvh0TZAL76BctaSzbchQQ91lE (id m1613250634688.29)
+2021-02-13T21:10:38.848Z I Ignoring room key request from ourselves
+2021-02-13T21:10:38.848Z I m.room_key_request from @zachm216:zmthree.xyz:FFLRWUNEGG for !RAxkKAquXJVbQRKcoY:zmthree.xyz / fIVnTD/urQhAB25rT7Nm35+ABm9siYVme1oW43sXdJI (id m1613250634705.32)
+2021-02-13T21:10:38.848Z I Ignoring room key request from ourselves
+2021-02-13T21:10:38.848Z I m.room_key_request from @zachm216:zmthree.xyz:FFLRWUNEGG for !RAxkKAquXJVbQRKcoY:zmthree.xyz / mA5qzDwIr4a2gR0MMyci5Yt4HQwvkxFLfdN035NyBRc (id m1613250634705.34)
+2021-02-13T21:10:38.848Z I Ignoring room key request from ourselves
+2021-02-13T21:10:38.848Z I m.room_key_request from @zachm216:zmthree.xyz:FFLRWUNEGG for !RAxkKAquXJVbQRKcoY:zmthree.xyz / 3TvkqSDX00V0oYeNBDqqfmMVBTMUTwBcxYbHEf4TpxI (id m1613250634705.35)
+2021-02-13T21:10:38.848Z I Ignoring room key request from ourselves
+2021-02-13T21:10:38.848Z I m.room_key_request from @zachm216:zmthree.xyz:FFLRWUNEGG for !RAxkKAquXJVbQRKcoY:zmthree.xyz / E66ISqV+clWb60Q/ve+e7Vym2shpAYc13j8MdP77cxs (id m1613250634706.36)
+2021-02-13T21:10:38.848Z I Ignoring room key request from ourselves
+2021-02-13T21:10:38.848Z I m.room_key_request from @zachm216:zmthree.xyz:FFLRWUNEGG for !RAxkKAquXJVbQRKcoY:zmthree.xyz / PnWrJkQ/Fr/3q6hrTT5xV33Ot00VjYVJz4uGCPPGH3U (id m1613250634706.37)
+2021-02-13T21:10:38.848Z I Ignoring room key request from ourselves
+2021-02-13T21:10:38.848Z I m.room_key_request from @zachm216:zmthree.xyz:FFLRWUNEGG for !RAxkKAquXJVbQRKcoY:zmthree.xyz / EHc4eDFmpLNFjCHAyin86JvUEZN8NXEeBC0FDkFV9Jg (id m1613250634826.45)
+2021-02-13T21:10:38.848Z I Ignoring room key request from ourselves
+2021-02-13T21:10:38.848Z I m.room_key_request from @zachm216:zmthree.xyz:FFLRWUNEGG for !RAxkKAquXJVbQRKcoY:zmthree.xyz / /y0ON6pySyAKdCkXQz3nEeR8ZvSy5ps3vfMU6qsfQX4 (id m1613250634827.46)
+2021-02-13T21:10:38.848Z I Ignoring room key request from ourselves
+2021-02-13T21:10:38.848Z I m.room_key_request from @zachm216:zmthree.xyz:FFLRWUNEGG for !RAxkKAquXJVbQRKcoY:zmthree.xyz / EUuJUuOchV9vu4uzY4sokSsIC5+159rfYq+HdOBMrMQ (id m1613250634828.47)
+2021-02-13T21:10:38.848Z I Ignoring room key request from ourselves
+2021-02-13T21:10:39.830Z E Cross-signing self-signing private key not available Secret storage access canceled
+Error: Secret storage access canceled
+    at Object.getSecretStorageKey (vector://vector/webapp/bundles/8bdd9bb39f69e827e0f8/vendors~init.js:2:482874)
+    at async l._getSecretStorageKey (vector://vector/webapp/bundles/8bdd9bb39f69e827e0f8/vendors~init.js:2:2181992)
+    at async l.get (vector://vector/webapp/bundles/8bdd9bb39f69e827e0f8/vendors~init.js:2:2178452)
+    at async Function.getFromSecretStorage (vector://vector/webapp/bundles/8bdd9bb39f69e827e0f8/vendors~init.js:2:877643)
+    at async u.getCrossSigningKey (vector://vector/webapp/bundles/8bdd9bb39f69e827e0f8/vendors~init.js:2:876838)
+    at async M.checkOwnCrossSigningTrust (vector://vector/webapp/bundles/8bdd9bb39f69e827e0f8/vendors~init.js:2:843778)
+    at async M.bootstrapCrossSigning (vector://vector/webapp/bundles/8bdd9bb39f69e827e0f8/vendors~init.js:2:833376)
+    at async O (vector://vector/webapp/bundles/8bdd9bb39f69e827e0f8/vendors~init.js:2:484984)
+2021-02-13T21:10:39.840Z I Starting load of AsyncWrapper for modal
+2021-02-13T21:10:40.385Z E Secret storage access canceled
+Error: Secret storage access canceled
+    at Object.getSecretStorageKey (vector://vector/webapp/bundles/8bdd9bb39f69e827e0f8/vendors~init.js:2:482874)
+    at async l._getSecretStorageKey (vector://vector/webapp/bundles/8bdd9bb39f69e827e0f8/vendors~init.js:2:2181992)
+    at async l.get (vector://vector/webapp/bundles/8bdd9bb39f69e827e0f8/vendors~init.js:2:2178452)
+    at async Function.getFromSecretStorage (vector://vector/webapp/bundles/8bdd9bb39f69e827e0f8/vendors~init.js:2:877643)
+    at async u.getCrossSigningKey (vector://vector/webapp/bundles/8bdd9bb39f69e827e0f8/vendors~init.js:2:876838)
+    at async u.signObject (vector://vector/webapp/bundles/8bdd9bb39f69e827e0f8/vendors~init.js:2:880813)
+    at async M.checkOwnCrossSigningTrust (vector://vector/webapp/bundles/8bdd9bb39f69e827e0f8/vendors~init.js:2:844094)
+    at async M.bootstrapCrossSigning (vector://vector/webapp/bundles/8bdd9bb39f69e827e0f8/vendors~init.js:2:833376)
+    at async O (vector://vector/webapp/bundles/8bdd9bb39f69e827e0f8/vendors~init.js:2:484984)
+2021-02-13T21:10:41.164Z I EventIndex: Done with the checkpoint {"roomId":"!RAxkKAquXJVbQRKcoY:zmthree.xyz","token":"t1-4362_5942408_5138_1570426_37451_47_287_36979_3","fullCrawl":true,"direction":"b"}
+2021-02-13T21:10:44.220Z I EventIndex: Done with the checkpoint {"roomId":"!RAxkKAquXJVbQRKcoY:zmthree.xyz","token":"t100-2178682_5942408_5138_1570426_37451_47_287_36979_3","direction":"f"}
+2021-02-13T21:10:47.532Z I received to_device m.key.verification.request from: @zachm216:zmthree.xyz id: undefined
+2021-02-13T21:10:47.536Z I Verification request $local.2966010f-ddf5-4bf8-9e9a-fb9795c868f2: m.key.verification.request event with id:undefined, content:{"from_device":"NWPHMRVLHT","methods":["m.sas.v1","m.qr_code.show.v1","m.qr_code.scan.v1","m.reciprocate.v1"],"timestamp":1613250645919,"transaction_id":"$local.2966010f-ddf5-4bf8-9e9a-fb9795c868f2"} deviceId:NWPHMRVLHT, sender:@zachm216:zmthree.xyz, isSentByUs:false, isLiveEvent:true, isRemoteEcho:false, phase:1=>2, observeOnly:false=>false
+2021-02-13T21:10:47.537Z I PUT /sendToDevice/m.key.verification.ready/m1613250647537.65 {"@zachm216:zmthree.xyz":["NWPHMRVLHT"]}
+2021-02-13T21:10:47.595Z I Verification request $local.2966010f-ddf5-4bf8-9e9a-fb9795c868f2: m.key.verification.ready event with id:undefined, content:{"methods":["m.sas.v1","m.qr_code.show.v1","m.reciprocate.v1"],"transaction_id":"$local.2966010f-ddf5-4bf8-9e9a-fb9795c868f2","from_device":"FFLRWUNEGG"} deviceId:NWPHMRVLHT, sender:@zachm216:zmthree.xyz, isSentByUs:true, isLiveEvent:true, isRemoteEcho:true, phase:2=>3, observeOnly:false=>false
+2021-02-13T21:10:50.621Z I Refreshing/starting the verification transaction timeout timer
+2021-02-13T21:10:50.623Z I downloadKeys: already have all necessary keys
+2021-02-13T21:10:50.624Z I PUT /sendToDevice/m.key.verification.start/m1613250650624.66 {"@zachm216:zmthree.xyz":["NWPHMRVLHT"]}
+2021-02-13T21:10:50.705Z I Verification request $local.2966010f-ddf5-4bf8-9e9a-fb9795c868f2: m.key.verification.start event with id:undefined, content:{"method":"m.sas.v1","from_device":"FFLRWUNEGG","key_agreement_protocols":["curve25519-hkdf-sha256","curve25519"],"hashes":["sha256"],"message_authentication_codes":["hkdf-hmac-sha256","hmac-sha256"],"short_authentication_string":["decimal","emoji"],"transaction_id":"$local.2966010f-ddf5-4bf8-9e9a-fb9795c868f2"} deviceId:NWPHMRVLHT, sender:@zachm216:zmthree.xyz, isSentByUs:true, isLiveEvent:true, isRemoteEcho:true, phase:3=>4, observeOnly:false=>false
+2021-02-13T21:10:55.374Z I received to_device m.key.verification.start from: @zachm216:zmthree.xyz id: undefined
+2021-02-13T21:10:55.375Z I Verification request $local.2966010f-ddf5-4bf8-9e9a-fb9795c868f2: m.key.verification.start event with id:undefined, content:{"from_device":"NWPHMRVLHT","method":"m.sas.v1","transaction_id":"$local.2966010f-ddf5-4bf8-9e9a-fb9795c868f2","key_agreement_protocols":["curve25519-hkdf-sha256","curve25519"],"hashes":["sha256"],"message_authentication_codes":["hkdf-hmac-sha256","hmac-sha256"],"short_authentication_string":["emoji","decimal"]} deviceId:NWPHMRVLHT, sender:@zachm216:zmthree.xyz, isSentByUs:false, isLiveEvent:true, isRemoteEcho:false, phase:4=>4, observeOnly:false=>false
+"indexI{

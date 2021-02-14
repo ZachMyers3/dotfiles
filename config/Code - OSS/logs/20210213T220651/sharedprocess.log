@@ -1,0 +1,2 @@
+[2021-02-13 22:06:56.513] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/zach/.config/Code - OSS/User/snippets'
+[2021-02-13 22:07:36.498] [sharedprocess] [info] Starting to clean up unused language packs.
